@@ -390,10 +390,10 @@
     {
       "path": "mods/show-me-your-skin-2.0.3+26.1.2.jar",
       "hashes": {
-        "sha256": "0b8d4d874cfbc272201ba7babd039067ef4a027c075ff7631918ea53bc1ef46b"
+        "sha256": "f6ed6d553eaf1cd1c04e5d44e7fdc40eec23a85bcbfd3c3a646f62923908a6df"
       },
-      "size": 277687,
-      "download": "https://cdn.modrinth.com/data/bD7YqcA3/versions/kjDivfts/show-me-your-skin-2.0.3%2B26.1.2.jar"
+      "size": 278863,
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/show-me-your-skin-2.0.3+26.1.2.jar"
     },
     {
       "path": "mods/shulkerboxtooltip-fabric-5.3.0+26.1.1.jar",
