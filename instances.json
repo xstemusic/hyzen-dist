@@ -2,7 +2,7 @@
     {
         "created_at": "2026-09-13T00:00:00Z",
         "id": "hyzen-modded",
-        "mods_count": 180,
+        "mods_count": 178,
         "play_time_seconds": 0,
         "server_address": "play.hyzen.top:25565",
         "source_path": "C:\\Users\\X\\curseforge\\minecraft\\Instances\\hyzen modded",
@@ -44,7 +44,7 @@
     {
         "created_at": "2026-09-13T00:00:00Z",
         "id": "hyzen-lab",
-        "mods_count": 180,
+        "mods_count": 178,
         "play_time_seconds": 0,
         "server_address": "play.hyzen.top:25565",
         "source_path": null,
