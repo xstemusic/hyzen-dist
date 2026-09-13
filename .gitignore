@@ -3,6 +3,9 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 
+# Executables (keep private during testing)
+*.exe
+
 # Temporary files
 *.tmp
 *.bak

@@ -1,25 +1,17 @@
-# 🎮 Hyzen Network — Официальный Лаунчер и Сборки
+# 🎮 Hyzen Network — Дистрибутив Сборок (Closed Beta)
 
-Официальный дистрибутив **Hyzen Launcher** для подключения к игровым серверам **Hyzen Network**.
+Официальный дистрибутив манифестов и модов для серверов **Hyzen Network**.
 
-[![Скачать Hyzen Launcher](https://img.shields.io/badge/Скачать_Лаунчер-HyzenLauncher.exe-00ffcc?style=for-the-badge&logo=windows&logoColor=black)](https://github.com/xstemusic/hyzen-dist/releases/latest/download/HyzenLauncher.exe)
-[![Статус Сервера](https://img.shields.io/badge/Сервер-play.hyzen.top-blue?style=for-the-badge)](https://hyzen.top)
+[![Статус](https://img.shields.io/badge/Статус-Закрытое_тестирование-orange?style=for-the-badge)](https://hyzen.top)
+[![Сервер](https://img.shields.io/badge/Сервер-play.hyzen.top-blue?style=for-the-badge)](https://hyzen.top)
 [![Discord](https://img.shields.io/badge/Сообщество-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hyzen)
 
----
-
-## ⚡ Быстрый старт:
-
-1. **Скачайте лаунчер**: [HyzenLauncher.exe](https://github.com/xstemusic/hyzen-dist/releases/latest/download/HyzenLauncher.exe)
-2. **Запустите файл**: Установка не требуется, лаунчер портативный.
-3. **Выберите сборку**:
-   - ⚡ **Hyzen Modded (Industrial & Magic)** — NeoForge 1.21.1 (150+ модов: механизмы, магия, кастомные анимации).
-   - ⛏ **Hyzen Vanilla SMP (Profile S)** — Fabric 1.21.4 (60+ оптимизационных модов, войс-чат, шейдеры).
-4. **Нажмите «Играть»**: Лаунчер автоматически скачает чистый Minecraft, библиотеки загрузчика и актуальные моды.
+> 🔒 **Репозиторий находится в режиме закрытого тестирования администратором.**  
+> Публичная ссылка на скачивание лаунчера будет открыта после окончания бета-теста.
 
 ---
 
-## 📦 Доступные сборки:
+## 📦 Доступные сборки проекта:
 
 ### 1. ⚡ Hyzen Modded (Industrial & Magic)
 * **Версия**: NeoForge 1.21.1
