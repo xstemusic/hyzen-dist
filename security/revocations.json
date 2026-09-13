@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-13T15:50:00Z",
+  "revoked_hwids": [],
+  "revoked_ips": [
+    {
+      "ip": "37.195.235.245",
+      "target_name": "FuzziBear_Twitch",
+      "reason": "Попытка разведки плагинов и кражи сборки",
+      "mode": "STEALTH",
+      "stealth_message": "DirectX 12 / OpenGL 4.5 Driver initialization timeout (0xC0000005)",
+      "revoked_at": "2026-09-13 15:50:00",
+      "revoked_by": "Admin"
+    },
+    {
+      "ip": "134.98.135.203",
+      "target_name": "FuzziBear_Twitch (Voice)",
+      "reason": "Voice IP",
+      "mode": "STEALTH",
+      "stealth_message": "Connection closed by remote host: java.net.SocketException",
+      "revoked_at": "2026-09-13 15:50:00",
+      "revoked_by": "Admin"
+    }
+  ],
+  "revoked_users": [
+    {
+      "username": "fuzzibear_twitch",
+      "reason": "Попытка разведки плагинов (/pl, /about)",
+      "mode": "STEALTH",
+      "stealth_message": "DirectX 12 / OpenGL 4.5 Driver initialization timeout (0xC0000005)",
+      "revoked_at": "2026-09-13 15:50:00",
+      "revoked_by": "Admin"
+    }
+  ]
+}
