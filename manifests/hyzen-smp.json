@@ -11,7 +11,7 @@
   "maxRamMb": 4096,
   "serverAddress": "play.hyzen.top:25565",
   "packDownloadUrl": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/packs/hyzen-smp-pack.zip",
-  "updatedAt": "2026-09-13T09:59:10.054826Z",
+  "updatedAt": "2026-09-13T10:01:14.005850Z",
   "totalMods": 57,
   "totalBytes": 159398293,
   "security": {
@@ -25,7 +25,7 @@
         "sha256": "6a03ad4fcf0a2c831ebabd56fc1b5aca2463e35f289a927adfdbaaf0e944d41c"
       },
       "size": 181584,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/appleskin-fabric-mc26.1.2-3.0.10.jar"
+      "download": "https://cdn.modrinth.com/data/EsAfCjCV/versions/zLlqqiTA/appleskin-fabric-mc26.1.2-3.0.10.jar"
     },
     {
       "path": "mods/authme-fabric-9.2.1+26.1.jar",
@@ -33,7 +33,7 @@
         "sha256": "2389708b30cc6b4ac0256ad99f3ab06b300796da8e018da33c972a55eee153c7"
       },
       "size": 1538182,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/authme-fabric-9.2.1+26.1.jar"
+      "download": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/VrkZE6Rv/authme-fabric-9.2.1%2B26.1.jar"
     },
     {
       "path": "mods/baguettelib-26.1.2-Fabric-2.0.4.jar",
@@ -41,7 +41,7 @@
         "sha256": "80957f7f48b5cee4b9bc3e667640c8f8a96f18b260c2e0f9201c2b6f1bfe03d7"
       },
       "size": 101853,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/baguettelib-26.1.2-Fabric-2.0.4.jar"
+      "download": "https://cdn.modrinth.com/data/OfKzpbRU/versions/R0y52e1u/baguettelib-26.1.2-Fabric-2.0.4.jar"
     },
     {
       "path": "mods/bbe-fabric-1.3.7-beta.1+mc26.1.2.jar",
@@ -49,7 +49,7 @@
         "sha256": "d97ea2221f90e8e0979435413a11d96b587ebf8fe82ec9adb87a308637504c63"
       },
       "size": 250452,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/bbe-fabric-1.3.7-beta.1+mc26.1.2.jar"
+      "download": "https://cdn.modrinth.com/data/ONZm0H7Y/versions/Kd9uKKlh/bbe-fabric-1.3.7-beta.1%2Bmc26.1.2.jar"
     },
     {
       "path": "mods/BetterF3-18.0.2-Fabric-26.1.jar",
@@ -57,7 +57,7 @@
         "sha256": "174453f208347c7ec6f9449c1e353ec77c69c5f07a7ee27a5932c7beee560e97"
       },
       "size": 717366,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/BetterF3-18.0.2-Fabric-26.1.jar"
+      "download": "https://cdn.modrinth.com/data/8shC1gFX/versions/aRWqyAza/BetterF3-18.0.2-Fabric-26.1.jar"
     },
     {
       "path": "mods/bobby-5.2.13+mc26.1.jar",
@@ -65,7 +65,7 @@
         "sha256": "098779d0c066a0f87dacf358efa2324f9b83784c75ccb287111c99b41e974a3d"
       },
       "size": 864743,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/bobby-5.2.13+mc26.1.jar"
+      "download": "https://cdn.modrinth.com/data/M08ruV16/versions/njaTBYvt/bobby-5.2.13%2Bmc26.1.jar"
     },
     {
       "path": "mods/c2me-fabric-mc26.1.2-0.4.0-alpha.0.44.jar",
@@ -73,7 +73,7 @@
         "sha256": "fb07f2d6aa3e978658d21b8d2003a1f82c7ca88669d0997544745a673553634e"
       },
       "size": 3789739,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/c2me-fabric-mc26.1.2-0.4.0-alpha.0.44.jar"
+      "download": "https://cdn.modrinth.com/data/VSNURh3q/versions/P1edoXUI/c2me-fabric-mc26.1.2-0.4.0-alpha.0.44.jar"
     },
     {
       "path": "mods/capes-1.5.11+26.1.jar",
@@ -81,7 +81,7 @@
         "sha256": "3f15146e613613cd4e56a51076da6fab97a809ba9065afd2401d1f05396ee3a6"
       },
       "size": 77458,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/capes-1.5.11+26.1.jar"
+      "download": "https://cdn.modrinth.com/data/89Wsn8GD/versions/JpT9Z91r/capes-1.5.11%2B26.1.jar"
     },
     {
       "path": "mods/chatanimation-fabric-1.3.0+mc26.1.jar",
@@ -89,7 +89,7 @@
         "sha256": "def432594b0aedebf78c50fa155dbe0339baa4c57ca8b3fa04f81afb52a4de09"
       },
       "size": 397941,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/chatanimation-fabric-1.3.0+mc26.1.jar"
+      "download": "https://cdn.modrinth.com/data/DnNYdJsx/versions/fYKnyGUq/chatanimation-fabric-1.3.0%2Bmc26.1.jar"
     },
     {
       "path": "mods/chat_heads-1.2.5-fabric-26.1.jar",
@@ -97,7 +97,7 @@
         "sha256": "74e601f8e7a003a9873baf29847fcc0e9e4da7e46621c72edc40a819b232e87e"
       },
       "size": 92112,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/chat_heads-1.2.5-fabric-26.1.jar"
+      "download": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/bASLtZKx/chat_heads-1.2.5-fabric-26.1.jar"
     },
     {
       "path": "mods/cicada-lib-0.15.2+26.1.jar",
@@ -105,7 +105,7 @@
         "sha256": "251119b37887c0816bbdd9c3bcc5c96415515c2db5103fc24a4a730bef9555c8"
       },
       "size": 360399,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/cicada-lib-0.15.2+26.1.jar"
+      "download": "https://cdn.modrinth.com/data/IwCkru1D/versions/qUoRmDGM/cicada-lib-0.15.2%2B26.1.jar"
     },
     {
       "path": "mods/cloth-config-26.1.154.jar",
@@ -113,7 +113,7 @@
         "sha256": "fb7a5d869ce10eaac2c2fe9ab84b4fc011a1fbfa575a93be9845a386a7f0c7d3"
       },
       "size": 1135373,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/cloth-config-26.1.154.jar"
+      "download": "https://cdn.modrinth.com/data/9s6osm5g/versions/GFM8zh9J/cloth-config-26.1.154.jar"
     },
     {
       "path": "mods/continuity-3.0.1-beta.2+26.1.jar",
@@ -121,7 +121,7 @@
         "sha256": "33e8acb7f264f691f2e6cf7c0d7b9152b54cf0353f37fc8a00d7312f26b36e3e"
       },
       "size": 1040001,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/continuity-3.0.1-beta.2+26.1.jar"
+      "download": "https://cdn.modrinth.com/data/1IjD5062/versions/l1mM6Ov7/continuity-3.0.1-beta.2%2B26.1.jar"
     },
     {
       "path": "mods/controlify-3.5.0+mc26.1-universal.jar",
@@ -129,7 +129,7 @@
         "sha256": "7d5664e78ba7d7071017d85d9948606f9371a890cc150f55eab785146737075c"
       },
       "size": 6418658,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/controlify-3.5.0+mc26.1-universal.jar"
+      "download": "https://cdn.modrinth.com/data/DOUdJVEm/versions/oEMsb0wo/controlify-3.5.0%2Bmc26.1-universal.jar"
     },
     {
       "path": "mods/ears-fabric-26.1-1.4.7_01.jar",
@@ -137,7 +137,7 @@
         "sha256": "c6fdbf2a0dda104d77d551bd907f48f9fd1204dcf76123108958661f21b90de0"
       },
       "size": 172829,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/ears-fabric-26.1-1.4.7_01.jar"
+      "download": "https://cdn.modrinth.com/data/mfzaZK3Z/versions/l1AXTUdE/ears-fabric-26.1-1.4.7_01.jar"
     },
     {
       "path": "mods/emotecraft-for-MC26.1.2-3.3.0-b.build.160.jar",
@@ -145,7 +145,7 @@
         "sha256": "8534d96764258ed2cab293dcbdcbdd29f3c9724e713a19f3b940175f471e4cd7"
       },
       "size": 926991,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/emotecraft-for-MC26.1.2-3.3.0-b.build.160.jar"
+      "download": "https://cdn.modrinth.com/data/pZ2wrerK/versions/vKzxDlHd/emotecraft-for-MC26.1.2-3.3.0-b.build.160.jar"
     },
     {
       "path": "mods/entityculling-fabric-1.10.5-mc26.1.jar",
@@ -153,7 +153,7 @@
         "sha256": "9b4443f072ff54288d51466b8dc3f327490848ebb5b75ee8755890949aa1f4a7"
       },
       "size": 1581987,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/entityculling-fabric-1.10.5-mc26.1.jar"
+      "download": "https://cdn.modrinth.com/data/NNAgCjsB/versions/zAi8nQHj/entityculling-fabric-1.10.5-mc26.1.jar"
     },
     {
       "path": "mods/explosive-enhancement-1.4.2-26.1.1.jar",
@@ -161,7 +161,7 @@
         "sha256": "d270d0d0ea4de8b82c591f225d468094a623cbc78949d8de004a751bfbe1ed18"
       },
       "size": 118328,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/explosive-enhancement-1.4.2-26.1.1.jar"
+      "download": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/IFzOg4ts/explosive-enhancement-1.4.2-26.1.1.jar"
     },
     {
       "path": "mods/fabric-api-0.155.2+26.1.2.jar",
@@ -169,7 +169,7 @@
         "sha256": "7196f2d8700cf906676db98cc13cd4b98267c4ca4ba3e8c516e62070b21a5a3a"
       },
       "size": 2520724,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/fabric-api-0.155.2+26.1.2.jar"
+      "download": "https://cdn.modrinth.com/data/P7dR8mSH/versions/uLkEd5dr/fabric-api-0.155.2%2B26.1.2.jar"
     },
     {
       "path": "mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
@@ -177,7 +177,7 @@
         "sha256": "34ccdacf13bb9351fe43ce61912c2e09b72364e43e787d36ba3d2d04dec75a52"
       },
       "size": 8076363,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar"
+      "download": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar"
     },
     {
       "path": "mods/fallingleaves-2.0.7+26.1.jar",
@@ -185,7 +185,7 @@
         "sha256": "db941c6c53a0353d8b7d07f1755315d8fe39d08a75cbd3b1516b258c130d0177"
       },
       "size": 182516,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/fallingleaves-2.0.7+26.1.jar"
+      "download": "https://cdn.modrinth.com/data/WhbRG4iK/versions/JYRSvzQW/fallingleaves-2.0.7%2B26.1.jar"
     },
     {
       "path": "mods/Female-Gender-Mod-5.0.0-Beta.4+26.1.jar",
@@ -193,7 +193,7 @@
         "sha256": "e21579e80c2f1734e4f6eb069718c207831a37d8a2c829e3fc4df6ee225076e6"
       },
       "size": 1238879,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/Female-Gender-Mod-5.0.0-Beta.4+26.1.jar"
+      "download": "https://cdn.modrinth.com/data/bcOsQHnC/versions/VI0GA2EF/Female-Gender-Mod-5.0.0-Beta.4%2B26.1.jar"
     },
     {
       "path": "mods/ferritecore-9.0.0-fabric.jar",
@@ -201,7 +201,7 @@
         "sha256": "213966c72ed967acc7392beb28a866fba301ff56b9976c2e7801c2db7de6bf22"
       },
       "size": 72677,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/ferritecore-9.0.0-fabric.jar"
+      "download": "https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar"
     },
     {
       "path": "mods/ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar",
@@ -209,7 +209,7 @@
         "sha256": "271ead0c8191902aa9e13a6f79a065633ed6bf7e13be024e82c8c0abc4da4775"
       },
       "size": 609711,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar"
+      "download": "https://cdn.modrinth.com/data/ohNO6lps/versions/jUe0ucoE/ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar"
     },
     {
       "path": "mods/ImmediatelyFast-Fabric-1.15.3+26.1.jar",
@@ -217,7 +217,7 @@
         "sha256": "5329c19ea79fbeacce6c355eeb884dcdb1c5baed632c2f8e9e92d6a4ae233cba"
       },
       "size": 310057,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/ImmediatelyFast-Fabric-1.15.3+26.1.jar"
+      "download": "https://cdn.modrinth.com/data/5ZwdcRci/versions/xOA9hbpf/ImmediatelyFast-Fabric-1.15.3%2B26.1.jar"
     },
     {
       "path": "mods/InventoryParticles-2.6.0+26.1+fabric.jar",
@@ -225,7 +225,7 @@
         "sha256": "7e068811493aa5499f7fc591a4326ef5d763850f52eae4c1ab4c949b735cfc43"
       },
       "size": 1784492,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/InventoryParticles-2.6.0+26.1+fabric.jar"
+      "download": "https://cdn.modrinth.com/data/XYnKrsxH/versions/5my9sTrT/InventoryParticles-2.6.0%2B26.1%2Bfabric.jar"
     },
     {
       "path": "mods/iris-fabric-1.11.2+mc26.1.2.jar",
@@ -233,7 +233,7 @@
         "sha256": "093769901decfa18c6e2f1f71f0c4d5889b87331d0c39442f1f40074ae4b345d"
       },
       "size": 2815786,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/iris-fabric-1.11.2+mc26.1.2.jar"
+      "download": "https://cdn.modrinth.com/data/YL57xq9U/versions/e4ioH5mG/iris-fabric-1.11.2%2Bmc26.1.2.jar"
     },
     {
       "path": "mods/lightweight-inventory-sorting-1.1.6+26.1.jar",
@@ -241,7 +241,7 @@
         "sha256": "1805bcf820982ca88c2c9acd5397bfeaefa3b11b52ec16291ccfd2dba78e8c97"
       },
       "size": 58563,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/lightweight-inventory-sorting-1.1.6+26.1.jar"
+      "download": "https://cdn.modrinth.com/data/JrrZfsph/versions/3qu6qAyb/lightweight-inventory-sorting-1.1.6%2B26.1.jar"
     },
     {
       "path": "mods/lithium-fabric-0.24.7+mc26.1.2.jar",
@@ -249,7 +249,7 @@
         "sha256": "a155b26df2593772e80a9f935837ba3319c68a3e774ba5e1b3a21eb64d477e86"
       },
       "size": 912821,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/lithium-fabric-0.24.7+mc26.1.2.jar"
+      "download": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Oqq8TOAV/lithium-fabric-0.24.7%2Bmc26.1.2.jar"
     },
     {
       "path": "mods/modmenu-18.0.0.jar",
@@ -257,7 +257,7 @@
         "sha256": "ea15f4eb0812f23ebe20cc6b0144cdd5455da0a0a0b1f21b5b733970b20a4d7e"
       },
       "size": 857151,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/modmenu-18.0.0.jar"
+      "download": "https://cdn.modrinth.com/data/mOgUt4GM/versions/3rsoV1bk/modmenu-18.0.0.jar"
     },
     {
       "path": "mods/morechathistory-2.0.0.jar",
@@ -265,7 +265,7 @@
         "sha256": "5a98a8c5b5ab9f6e34393ea62ba462e17c696d4319fdeeaf98f516e11afc3587"
       },
       "size": 3773,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/morechathistory-2.0.0.jar"
+      "download": "https://cdn.modrinth.com/data/8qkXwOnk/versions/qpDhYv1Y/morechathistory-2.0.0.jar"
     },
     {
       "path": "mods/MossyLib-1.5.0+26.1+fabric.jar",
@@ -273,7 +273,7 @@
         "sha256": "0f6c3c48fe6614399683d3a1a62e0a5b55c0890f4caeb147ff7b0dc038537c60"
       },
       "size": 186336,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/MossyLib-1.5.0+26.1+fabric.jar"
+      "download": "https://cdn.modrinth.com/data/ffLDUGbm/versions/O2Pxh9e1/MossyLib-1.5.0%2B26.1%2Bfabric.jar"
     },
     {
       "path": "mods/no-resource-pack-warnings-1.5.0.jar",
@@ -281,7 +281,7 @@
         "sha256": "da30dbb376feaf817fe5911c6ec8e3ec4060cfa67a775b5636b68888ad96d4bd"
       },
       "size": 4356,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/no-resource-pack-warnings-1.5.0.jar"
+      "download": "https://cdn.modrinth.com/data/6xKUDQcB/versions/1RaYV3Oy/no-resource-pack-warnings-1.5.0.jar"
     },
     {
       "path": "mods/notenoughanimations-fabric-1.12.4-mc26.1.jar",
@@ -289,7 +289,7 @@
         "sha256": "1e07a14985f90b2b3e0bd4602cb8d0e962ad67d779efeaa93b9a5489c3b086a8"
       },
       "size": 1936117,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/notenoughanimations-fabric-1.12.4-mc26.1.jar"
+      "download": "https://cdn.modrinth.com/data/MPCX6s5C/versions/f7Jte8km/notenoughanimations-fabric-1.12.4-mc26.1.jar"
     },
     {
       "path": "mods/owo-lib-0.13.0+26.1.jar",
@@ -297,7 +297,7 @@
         "sha256": "6646ecfa289b902a1add450c77b32e33d53e22f956c0d4e83b1aa60b90cb3d99"
       },
       "size": 2218769,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/owo-lib-0.13.0+26.1.jar"
+      "download": "https://cdn.modrinth.com/data/ccKDOlHs/versions/QmA84JcU/owo-lib-0.13.0%2B26.1.jar"
     },
     {
       "path": "mods/ParticleEffects-1.5.0+26.1+fabric.jar",
@@ -305,7 +305,7 @@
         "sha256": "deb22d2ff9d5dca1183549c761342b846d86fb7234467605e0a883f2fda91542"
       },
       "size": 318503,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/ParticleEffects-1.5.0+26.1+fabric.jar"
+      "download": "https://cdn.modrinth.com/data/PLAGcSFJ/versions/VbDewMn7/ParticleEffects-1.5.0%2B26.1%2Bfabric.jar"
     },
     {
       "path": "mods/particlerain-4.0.0-beta.10+26.1-fabric.jar",
@@ -313,7 +313,7 @@
         "sha256": "9ae05aa46a5b92e916d28f58532a5c69b7d075c56dea79b33d0d8366d2fb7a63"
       },
       "size": 608577,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/particlerain-4.0.0-beta.10+26.1-fabric.jar"
+      "download": "https://cdn.modrinth.com/data/nrikgvxm/versions/s4RPlVYL/particlerain-4.0.0-beta.10%2B26.1-fabric.jar"
     },
     {
       "path": "mods/particular-26.1.2-Fabric-1.5.5.jar",
@@ -321,7 +321,7 @@
         "sha256": "4d7fd5149381e0444172f2d22147f4a4e4afaa05107d43d7c87ef4011ef7c48d"
       },
       "size": 289086,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/particular-26.1.2-Fabric-1.5.5.jar"
+      "download": "https://cdn.modrinth.com/data/pYFUU6cq/versions/fKBUEdst/particular-26.1.2-Fabric-1.5.5.jar"
     },
     {
       "path": "mods/placeholder-api-3.0.0+26.1.jar",
@@ -329,7 +329,7 @@
         "sha256": "7c4893195ab4bec56d05a5fd4521bd9bc8619ef11aa0a5c83a426a99d2191062"
       },
       "size": 254376,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/placeholder-api-3.0.0+26.1.jar"
+      "download": "https://cdn.modrinth.com/data/eXts2L7r/versions/b3IPAHgB/placeholder-api-3.0.0%2B26.1.jar"
     },
     {
       "path": "mods/plasmovoice-fabric-26.1-2.1.13.jar",
@@ -337,7 +337,7 @@
         "sha256": "96889af31fea2bccbf144080c63dd60eb91717b4b79aa0145f7aa4a180620572"
       },
       "size": 12205387,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/plasmovoice-fabric-26.1-2.1.13.jar"
+      "download": "https://cdn.modrinth.com/data/1bZhdhsH/versions/ggHxxQLq/plasmovoice-fabric-26.1-2.1.13.jar"
     },
     {
       "path": "mods/PlayerAnimationLibMerged-1.2.5+mc.26.1.jar",
@@ -345,7 +345,7 @@
         "sha256": "42118eb455e63cef0e8622716b07810a5fb9f5a82c8df3027ec0c2951bc6a11a"
       },
       "size": 419285,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/PlayerAnimationLibMerged-1.2.5+mc.26.1.jar"
+      "download": "https://cdn.modrinth.com/data/ha1mEyJS/versions/SdKAeB6x/PlayerAnimationLibMerged-1.2.5%2Bmc.26.1.jar"
     },
     {
       "path": "mods/reeses-sodium-options-fabric-2.2.3+mc26.1.2.jar",
@@ -353,7 +353,7 @@
         "sha256": "32c35e14da3de36a743bb378e25314944f83c8be13a473bfb6cec521b9cb573e"
       },
       "size": 259487,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/reeses-sodium-options-fabric-2.2.3+mc26.1.2.jar"
+      "download": "https://cdn.modrinth.com/data/Bh37bMuy/versions/laVM31w1/reeses-sodium-options-fabric-2.2.3%2Bmc26.1.2.jar"
     },
     {
       "path": "mods/Resourcify (26.1-fabric)-1.8.5.jar",
@@ -361,7 +361,7 @@
         "sha256": "ebe612da35ea4dd0df2c67b181392d37f6a9ffcd289ae0977e88c84d8703f8d2"
       },
       "size": 2553563,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/Resourcify (26.1-fabric)-1.8.5.jar"
+      "download": "https://cdn.modrinth.com/data/RLzHAoZe/versions/XQbV35IW/Resourcify%20%2826.1-fabric%29-1.8.5.jar"
     },
     {
       "path": "mods/RPRenames-26.1.2-0.12.0.jar",
@@ -369,7 +369,7 @@
         "sha256": "9d747cb28d044bc1c2c983238c6c1b29c6569c772ba1acfd4e23bd9cc3dcac67"
       },
       "size": 269980,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/RPRenames-26.1.2-0.12.0.jar"
+      "download": "https://cdn.modrinth.com/data/hvqcuDMT/versions/NG6XFFee/RPRenames-26.1.2-0.12.0.jar"
     },
     {
       "path": "mods/rrls-5.2.6+mc.26.1.jar",
@@ -377,7 +377,7 @@
         "sha256": "fec2cb4f4dd71aa138e278fee7fb2afcb4c23f6e1d4a17e3225a0deadb22fdba"
       },
       "size": 119453,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/rrls-5.2.6+mc.26.1.jar"
+      "download": "https://cdn.modrinth.com/data/ZP7xHXtw/versions/J8aRjeWe/rrls-5.2.6%2Bmc.26.1.jar"
     },
     {
       "path": "mods/screenshot_viewer-1.3.5-fabric-mc26.1x.jar",
@@ -385,7 +385,7 @@
         "sha256": "2a6ad31e3a27d33584839232f4a810e4ee9c2dd920f6737d96d5dcd665a9f7c8"
       },
       "size": 305626,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/screenshot_viewer-1.3.5-fabric-mc26.1x.jar"
+      "download": "https://cdn.modrinth.com/data/laNoi025/versions/vB9Q7HEA/screenshot_viewer-1.3.5-fabric-mc26.1x.jar"
     },
     {
       "path": "mods/show-me-your-skin-2.0.3+26.1.2.jar",
@@ -393,7 +393,7 @@
         "sha256": "0b8d4d874cfbc272201ba7babd039067ef4a027c075ff7631918ea53bc1ef46b"
       },
       "size": 277687,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/show-me-your-skin-2.0.3+26.1.2.jar"
+      "download": "https://cdn.modrinth.com/data/bD7YqcA3/versions/kjDivfts/show-me-your-skin-2.0.3%2B26.1.2.jar"
     },
     {
       "path": "mods/shulkerboxtooltip-fabric-5.3.0+26.1.1.jar",
@@ -401,7 +401,7 @@
         "sha256": "fc880baa50e3163338fd47f5693a0c53a82ad5d0451389dcaeaad4f80179b652"
       },
       "size": 404176,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/shulkerboxtooltip-fabric-5.3.0+26.1.1.jar"
+      "download": "https://cdn.modrinth.com/data/2M01OLQq/versions/Yn66yzx3/shulkerboxtooltip-fabric-5.3.0%2B26.1.1.jar"
     },
     {
       "path": "mods/skinlayers3d-fabric-1.11.2-mc26.1.jar",
@@ -409,7 +409,7 @@
         "sha256": "8443efa729b276431052b135b75c5abc418b864b0a547e69d2902e1e0420b9ff"
       },
       "size": 1964639,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/skinlayers3d-fabric-1.11.2-mc26.1.jar"
+      "download": "https://cdn.modrinth.com/data/zV5r3pPn/versions/yGhuC8Hx/skinlayers3d-fabric-1.11.2-mc26.1.jar"
     },
     {
       "path": "mods/smoothscroll-2.8.1.jar",
@@ -417,7 +417,7 @@
         "sha256": "e347edfe9a0150e7c6b3e217f484e5d0cfdf3e4696e273bcc55153624c45ed01"
       },
       "size": 95283,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/smoothscroll-2.8.1.jar"
+      "download": "https://cdn.modrinth.com/data/CllP7wW0/versions/dLYYgSFy/smoothscroll-2.8.1.jar"
     },
     {
       "path": "mods/sodium-extra-fabric-0.9.3+mc26.1.2.jar",
@@ -425,7 +425,7 @@
         "sha256": "08c25f25f359eeba73ed73a44be09d4b1c425ef96f8bc4eb6d7221942f90f713"
       },
       "size": 477705,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/sodium-extra-fabric-0.9.3+mc26.1.2.jar"
+      "download": "https://cdn.modrinth.com/data/PtjYWJkn/versions/q7UnsNa0/sodium-extra-fabric-0.9.3%2Bmc26.1.2.jar"
     },
     {
       "path": "mods/sodium-fabric-0.9.1+mc26.1.2.jar",
@@ -433,7 +433,7 @@
         "sha256": "56d2eb7e8fb7f129286ab9cc89f460fe5a4cea340081ef3c50ac65bce9501b1d"
       },
       "size": 1889595,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/sodium-fabric-0.9.1+mc26.1.2.jar"
+      "download": "https://cdn.modrinth.com/data/AANobbMI/versions/vf7UgZpC/sodium-fabric-0.9.1%2Bmc26.1.2.jar"
     },
     {
       "path": "mods/stendhal-1.4.6-26.1.2.jar",
@@ -441,7 +441,7 @@
         "sha256": "0d29af458b47a39edec47fef1d19ae41de7366ccbe935bf53eccc4f47def1dfd"
       },
       "size": 491026,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/stendhal-1.4.6-26.1.2.jar"
+      "download": "https://cdn.modrinth.com/data/BWloQ9jK/versions/FNWNtIX0/stendhal-1.4.6-26.1.2.jar"
     },
     {
       "path": "mods/vmp-fabric-mc26.1.2-0.2.0+beta.7.234-all.jar",
@@ -449,7 +449,7 @@
         "sha256": "0b4c8880962288ab1f5a069b4db5643242999448b0044a960c5d4a5d96d2bad5"
       },
       "size": 412393,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/vmp-fabric-mc26.1.2-0.2.0+beta.7.234-all.jar"
+      "download": "https://cdn.modrinth.com/data/wnEe9KBa/versions/9f7J0dAp/vmp-fabric-mc26.1.2-0.2.0%2Bbeta.7.234-all.jar"
     },
     {
       "path": "mods/webcam-fabric-4.4.1-26.1.1.jar",
@@ -457,7 +457,7 @@
         "sha256": "d119b35b9ece7a9a85dba00649ff911d8ceec73516e38cf742b79855ab1dbe99"
       },
       "size": 90955416,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/webcam-fabric-4.4.1-26.1.1.jar"
+      "download": "https://cdn.modrinth.com/data/KLTWlg59/versions/ElV9e1Vb/webcam-fabric-4.4.1-26.1.1.jar"
     },
     {
       "path": "mods/WI-Zoom-1.7-MC26.1.2.jar",
@@ -473,7 +473,7 @@
         "sha256": "4dcc4c42733a649f5a5ca67c5f553195630ff7e6514ab65488ae8c27457f5183"
       },
       "size": 1121084,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/yet_another_config_lib_v3-3.9.6+26.1-fabric.jar"
+      "download": "https://cdn.modrinth.com/data/1eAoo2KR/versions/svTkvBec/yet_another_config_lib_v3-3.9.6%2B26.1-fabric.jar"
     }
   ]
 }
