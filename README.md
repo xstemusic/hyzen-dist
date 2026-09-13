@@ -2,7 +2,7 @@
 
 Официальный дистрибутив **Hyzen Launcher** для подключения к игровым серверам **Hyzen Network**.
 
-[![Скачать Hyzen Launcher](https://img.shields.io/badge/Скачать_Лаунчер-HyzenLauncher.exe-00ffcc?style=for-the-badge&logo=windows&logoColor=black)](https://github.com/xstemusic/hyzen-dist/raw/main/HyzenLauncher.exe)
+[![Скачать Hyzen Launcher](https://img.shields.io/badge/Скачать_Лаунчер-HyzenLauncher.exe-00ffcc?style=for-the-badge&logo=windows&logoColor=black)](https://github.com/xstemusic/hyzen-dist/releases/latest/download/HyzenLauncher.exe)
 [![Статус Сервера](https://img.shields.io/badge/Сервер-play.hyzen.top-blue?style=for-the-badge)](https://hyzen.top)
 [![Discord](https://img.shields.io/badge/Сообщество-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hyzen)
 
@@ -10,7 +10,7 @@
 
 ## ⚡ Быстрый старт:
 
-1. **Скачайте лаунчер**: [HyzenLauncher.exe](https://github.com/xstemusic/hyzen-dist/raw/main/HyzenLauncher.exe)
+1. **Скачайте лаунчер**: [HyzenLauncher.exe](https://github.com/xstemusic/hyzen-dist/releases/latest/download/HyzenLauncher.exe)
 2. **Запустите файл**: Установка не требуется, лаунчер портативный.
 3. **Выберите сборку**:
    - ⚡ **Hyzen Modded (Industrial & Magic)** — NeoForge 1.21.1 (150+ модов: механизмы, магия, кастомные анимации).
