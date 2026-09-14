@@ -11,9 +11,9 @@
   "maxRamMb": 8192,
   "serverAddress": "play.hyzen.top:25565",
   "packDownloadUrl": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/packs/hyzen-modded-pack.zip",
-  "updatedAt": "2026-09-14T06:57:53.746454Z",
-  "totalMods": 183,
-  "totalBytes": 480249045,
+  "updatedAt": "2026-09-14T07:02:24.900102Z",
+  "totalMods": 182,
+  "totalBytes": 476358798,
   "security": {
     "hashAlgorithm": "SHA256",
     "verifiedOrigin": "https://github.com/xstemusic/hyzen-dist"
@@ -804,14 +804,6 @@
       "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/immersive_paintings-neoforge-1.21.1-0.7.8.jar"
     },
     {
-      "path": "mods/implant1.0.0-r82.jar",
-      "hashes": {
-        "sha256": "673c4073d80d554dbcbaa3382f08813868bdef4d61950e7d5599ad9b0fb7fe5d"
-      },
-      "size": 1087725,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/implant1.0.0-r82.jar"
-    },
-    {
       "path": "mods/insanelib-2.4.32.0.jar",
       "hashes": {
         "sha256": "79b48dfbf95072c180da7fcc3dd5565fc7127cdeba0574116da93e28fd343641"
@@ -1132,14 +1124,6 @@
       "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/polymorph-neoforge-1.2.0+1.21.1.jar"
     },
     {
-      "path": "mods/portal_gun_mod-1.50.0.jar",
-      "hashes": {
-        "sha256": "9405fcd962b5741cec57760b9f6a5a2b563345bad1658231b87ca3841a1913ae"
-      },
-      "size": 3389682,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/portal_gun_mod-1.50.0.jar"
-    },
-    {
       "path": "mods/ragdoll_reactions-1.21.1-0.7.0.jar",
       "hashes": {
         "sha256": "d61a118c0b5ad2f3e761af6b3d71726bc2887bb3d0c7c90c2dc604bb4d3792b8"
@@ -1202,6 +1186,14 @@
       },
       "size": 882075,
       "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/rhino-2101.2.7-build.85.jar"
+    },
+    {
+      "path": "mods/ricksportalgun-neoforge-1.21.1-1.4.5.jar",
+      "hashes": {
+        "sha256": "a01977b9389ba9db1abe18cf0ebbc4689cdc2270dd56240b4d6f8104d25e18f9"
+      },
+      "size": 587160,
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/ricksportalgun-neoforge-1.21.1-1.4.5.jar"
     },
     {
       "path": "mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
