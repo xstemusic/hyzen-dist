@@ -1108,6 +1108,12 @@
       "hash": "75ac9e73c60caf58df7069f167dbacc00a640e1418207dff654f56a5fdb5f229",
       "size": 5193371,
       "url": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/[1.21.1] SecurityCraft v1.10.2.1.jar"
+    },
+    {
+      "path": "config/be_quiet_negotiator-client.toml",
+      "hash": "269642b9f79bd593c8533fb345161ee0232e7acb9895db5bfb70eda324375753",
+      "size": 483,
+      "url": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/config/be_quiet_negotiator-client.toml"
     }
   ]
 }
