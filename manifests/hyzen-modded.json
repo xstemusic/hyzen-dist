@@ -11,9 +11,9 @@
   "maxRamMb": 8192,
   "serverAddress": "play.hyzen.top:25565",
   "packDownloadUrl": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/packs/hyzen-modded-pack.zip",
-  "updatedAt": "2026-09-14T09:44:39.116536Z",
+  "updatedAt": "2026-09-14T09:54:02.017441Z",
   "totalMods": 184,
-  "totalBytes": 457998951,
+  "totalBytes": 458047516,
   "security": {
     "hashAlgorithm": "SHA256",
     "verifiedOrigin": "https://github.com/xstemusic/hyzen-dist"
@@ -774,9 +774,9 @@
     {
       "path": "mods/hyzenbridge-1.0.0.jar",
       "hashes": {
-        "sha256": "a776fe8ed9bf580c640d648cf409d7557821ce715471916d4bacf603c54f63b7"
+        "sha256": "e8108cd1cb5beefd5ffbb78052ab952d8a83f59547bf0bc92cfb4c5e4ed74336"
       },
-      "size": 16087422,
+      "size": 16135987,
       "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/hyzenbridge-1.0.0.jar"
     },
     {
