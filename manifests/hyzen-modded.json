@@ -11,9 +11,9 @@
   "maxRamMb": 8192,
   "serverAddress": "play.hyzen.top:25565",
   "packDownloadUrl": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/packs/hyzen-modded-pack.zip",
-  "updatedAt": "2026-09-14T08:47:11.520579Z",
-  "totalMods": 183,
-  "totalBytes": 476374815,
+  "updatedAt": "2026-09-14T08:52:17.191226Z",
+  "totalMods": 181,
+  "totalBytes": 449749717,
   "security": {
     "hashAlgorithm": "SHA256",
     "verifiedOrigin": "https://github.com/xstemusic/hyzen-dist"
@@ -644,14 +644,6 @@
       "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/fallingleaves-1.21.1-2.5.1.jar"
     },
     {
-      "path": "mods/fancymenu_neoforge_3.9.12_MC_1.21.1.jar.disabled",
-      "hashes": {
-        "sha256": "fd0f446c22bb42a0a3ac5cbdcb614abcba5a70f99e2a0cda6556a8efad2859a5"
-      },
-      "size": 25912346,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/fancymenu_neoforge_3.9.12_MC_1.21.1.jar.disabled"
-    },
-    {
       "path": "mods/FarmersDelight-1.21.1-1.3.4.jar",
       "hashes": {
         "sha256": "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c"
@@ -1162,14 +1154,6 @@
       },
       "size": 260876,
       "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/reeses-sodium-options-neoforge-2.2.3%2Bmc1.21.1.jar"
-    },
-    {
-      "path": "mods/reliable_advancements-neoforge-1.21.1-6.2.4.jar.disabled",
-      "hashes": {
-        "sha256": "3d5a1fffb7cba6aadbac5f1a19779315572a287f11fb4909b4598715caf75d23"
-      },
-      "size": 712752,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/reliable_advancements-neoforge-1.21.1-6.2.4.jar.disabled"
     },
     {
       "path": "mods/reliable_recipes-neoforge-1.21.1-3.1.8.jar",
