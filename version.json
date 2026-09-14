@@ -1,6 +1,6 @@
 {
   "version": "2.1.0",
-  "download_url": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/launcher/HyzenLauncher.exe",
+  "download_url": "",
   "release_name": "Hyzen Launcher v2.1.0",
   "release_notes": "Обновление названий сборок (SMP / MODDED), свободная настройка заставок и баннеров, умная починка сборок и бесконфликтное управление.",
   "published_at": "2026-09-14T08:30:00Z"
