@@ -1,0 +1,79 @@
+#HyzenBridge Database and Network Configuration
+[database]
+	#Use local SQLite database file for testing instead of MySQL
+	use_sqlite = false
+	#Path to local SQLite database (defaults to main server's PEconomy database)
+	sqlite_path = "../plugins/PEconomy/database.db"
+	#MySQL Host IP or hostname
+	host = "172.18.0.1"
+	#MySQL Port
+	# Default: 3306
+	# Range: 1 ~ 65535
+	port = 3306
+	#Database name
+	name = "s28_HYZENSMP"
+	#Database username
+	user = "u28_9feO8hk053"
+	#Database password
+	password = "!lLO8gqklTYEBch@TP6^33Sg"
+	#Table name for player wallets (PEconomy compatible)
+	table_wallets = "peco_wallet_owners"
+
+#Economy & Currency Settings
+[economy]
+	#Default currency identifier in wallets JSON
+	default_currency = "dollars"
+	#Currency symbol displayed in messages
+	currency_symbol = "$"
+
+#Proxy & Network Settings
+[network]
+	#Velocity server name for the vanilla SMP server to send players with /smp
+	smp_server_name = "smp"
+
+#Claims & Territory Protection (Rust-style Claim Cabinet)
+[claims]
+	#Default claim radius from cabinet in blocks (100x100 zone)
+	# Default: 50
+	# Range: 10 ~ 200
+	radius = 50
+	#Base protection lifetime upon placement in hours (default 72h = 3 days)
+	# Default: 72
+	# Range: 1 ~ 720
+	base_fuel_hours = 72
+	#Protection time added per coal/charcoal item in hours
+	# Default: 1
+	# Range: 1 ~ 24
+	coal_fuel_hours = 1
+	#Maximum number of claim cabinets a player can place
+	# Default: 3
+	# Range: 1 ~ 10
+	max_claims_per_player = 3
+
+#Spawn Portal & Cross-Server Transfer (SMP Return Portal)
+[portal]
+	#Enable Spawn Portal back to SMP
+	enabled = true
+	#Automatically build and repair the Spawn Portal structure if missing
+	auto_build = true
+	#Portal base X coordinate (0 = auto-detect from world spawn)
+	x = 0
+	#Portal base Y coordinate (0 = auto-detect from surface height)
+	y = 0
+	#Portal base Z coordinate (0 = auto-detect from world spawn)
+	z = 0
+	#Portal orientation axis ('X' or 'Z')
+	axis = "X"
+
+#Server Hibernation / Low Power Sleep Mode (when 0 players online)
+[hibernation]
+	#Enable automatic low-power sleep when no players are online (saves ~99% CPU without thread blocking)
+	enabled = true
+	#Idle time in seconds before entering sleep mode after last player leaves
+	# Default: 30
+	# Range: 5 ~ 600
+	idle_timeout_seconds = 30
+	#Target server tick rate (TPS) during hibernation (1.0 = 1 tick/sec, native ServerTickRateManager)
+	# Default: 1.0
+	# Range: 0.1 ~ 20.0
+	idle_tick_rate = 1.0

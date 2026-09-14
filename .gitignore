@@ -3,10 +3,20 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 
-# Executables (keep private during testing)
+# Executables & Native libraries
 *.exe
+*.dll
+*.so
+*.dylib
+mcef-libraries/
+mcef-cache/
+
+# Large packs (exceeds GitHub 100MB limit)
+packs/
+*.zip
 
 # Temporary files
 *.tmp
 *.bak
 *.log
+
