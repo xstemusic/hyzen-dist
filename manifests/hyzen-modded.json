@@ -11,7 +11,7 @@
   "maxRamMb": 8192,
   "serverAddress": "play.hyzen.top:25565",
   "packDownloadUrl": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/packs/hyzen-modded-pack.zip",
-  "updatedAt": "2026-09-14T08:25:26.731826Z",
+  "updatedAt": "2026-09-14T08:47:11.520579Z",
   "totalMods": 183,
   "totalBytes": 476374815,
   "security": {
@@ -25,7 +25,7 @@
         "sha256": "75ac9e73c60caf58df7069f167dbacc00a640e1418207dff654f56a5fdb5f229"
       },
       "size": 5193371,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/[1.21.1] SecurityCraft v1.10.2.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/%5B1.21.1%5D%20SecurityCraft%20v1.10.2.1.jar"
     },
     {
       "path": "mods/aerocopycats-1.1.1.jar",
@@ -49,7 +49,7 @@
         "sha256": "ca64ec07c29cadb0e7703e993fbaad26029ebc4203626d2638aefe989e5be74f"
       },
       "size": 562895,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/alltheleaks-1.1.12+1.21.1-neoforge.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/alltheleaks-1.1.12%2B1.21.1-neoforge.jar"
     },
     {
       "path": "mods/alternate_current-mc1.21-1.9.0.jar",
@@ -105,7 +105,7 @@
         "sha256": "0d6db835dfe228330f45542f9ca659c9cc996d78a47621150176709768fc8672"
       },
       "size": 16017,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/be_quiet_negotiator-2.0.0-rc1+1.21.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/be_quiet_negotiator-2.0.0-rc1%2B1.21.1.jar"
     },
     {
       "path": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
@@ -145,7 +145,7 @@
         "sha256": "9f6581823c2449dde4ac1e9b4f5a7cc226c42e058e656741ab392f714f443971"
       },
       "size": 1575450,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/BrewinAndChewin-neoforge-4.5.0+1.21.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/BrewinAndChewin-neoforge-4.5.0%2B1.21.1.jar"
     },
     {
       "path": "mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.120.jar",
@@ -249,7 +249,7 @@
         "sha256": "9259e4adb5b091fe2bd60e57be7f0b2ec9872f1c97ff6d2ed3bb2a9a5ec6407f"
       },
       "size": 398004,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/colorwheel-neoforge-1.2.9+mc1.21.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/colorwheel-neoforge-1.2.9%2Bmc1.21.1.jar"
     },
     {
       "path": "mods/comforts-neoforge-9.0.5+1.21.1.jar",
@@ -257,7 +257,7 @@
         "sha256": "6b0fd35a1349107e08a45539adbde9683bb203febc43a3305f6fc4ac73e59615"
       },
       "size": 422658,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/comforts-neoforge-9.0.5+1.21.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/comforts-neoforge-9.0.5%2B1.21.1.jar"
     },
     {
       "path": "mods/connectivity-1.21.1-7.6.jar",
@@ -281,7 +281,7 @@
         "sha256": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
       },
       "size": 1791747,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/copycats-3.0.4+mc.1.21.1-neoforge.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar"
     },
     {
       "path": "mods/corpse-neoforge-1.21.1-1.1.13.jar",
@@ -313,7 +313,7 @@
         "sha256": "32c7be498962d54b28dfb902c1509596442048a3ae72bd3f7884ab853d0e4464"
       },
       "size": 694835,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/crashexploitfixer-neoforge-2.0.0+1.21.4.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/crashexploitfixer-neoforge-2.0.0%2B1.21.4.jar"
     },
     {
       "path": "mods/crashutilities-9.0.4.jar",
@@ -337,7 +337,7 @@
         "sha256": "d8098deb0efe397b5f6682281f4600ce88f1d7bf3b02390b03a2667b4f2c1872"
       },
       "size": 91053,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/create-access-denied-0.0.4+c6.0.10.mc1.21.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/create-access-denied-0.0.4%2Bc6.0.10.mc1.21.1.jar"
     },
     {
       "path": "mods/create-aeronautics-bundled-1.21.1-1.3.0.jar",
@@ -417,7 +417,7 @@
         "sha256": "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
       },
       "size": 3771506,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/createbigcannons-5.11.7+mc.1.21.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/createbigcannons-5.11.7%2Bmc.1.21.1.jar"
     },
     {
       "path": "mods/createcardboardthings-1.21.1-1.0.2.jar",
@@ -545,7 +545,7 @@
         "sha256": "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e"
       },
       "size": 220193,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar"
     },
     {
       "path": "mods/ears-buzz-neoforge-2.2.1-c.jar",
@@ -585,7 +585,7 @@
         "sha256": "b68691f94f0727fc517cac2ab55bd6658d1179cc8cc715fe610b60c37469bc4c"
       },
       "size": 1111538,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/emi-1.1.24+1.21.1+neoforge.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/emi-1.1.24%2B1.21.1%2Bneoforge.jar"
     },
     {
       "path": "mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
@@ -697,7 +697,7 @@
         "sha256": "f379147b52953e8013c27ee5b9d1552618b649f80a0cbe974ed0c6e8de89515c"
       },
       "size": 2253181,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/figura-0.1.6+1.21.1-neoforge-mc.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/figura-0.1.6%2B1.21.1-neoforge-mc.jar"
     },
     {
       "path": "mods/figuraextrabone-0.0.3-neoforge-1.21.1.jar",
@@ -737,7 +737,7 @@
         "sha256": "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
       },
       "size": 2369895,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/fzzy_config-0.7.6+1.21+neoforge.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar"
     },
     {
       "path": "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
@@ -753,7 +753,7 @@
         "sha256": "5df284ed678c8f44d5f9b015736c18858d8b5706128bbe129fc35bc23208bd84"
       },
       "size": 906446,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/Geophilic v3.6.mod.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/Geophilic%20v3.6.mod.jar"
     },
     {
       "path": "mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
@@ -785,7 +785,7 @@
         "sha256": "fa3aec87e9880d0a8ab9663c96ad0206fd59de5e71acfccbebc264f7ad0ae153"
       },
       "size": 362740,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/ImmediatelyFast-NeoForge-1.6.13%2B1.21.1.jar"
     },
     {
       "path": "mods/immersive_aircraft-1.4.6+1.21.1-neoforge.jar",
@@ -793,7 +793,7 @@
         "sha256": "953222fefb9439b74760583d46dbf620ed85cc614f5ab629aec05ab6ce40ebe7"
       },
       "size": 2447578,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/immersive_aircraft-1.4.6+1.21.1-neoforge.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/immersive_aircraft-1.4.6%2B1.21.1-neoforge.jar"
     },
     {
       "path": "mods/immersive_furniture-neoforge-0.3.3+1.21.1.jar",
@@ -801,7 +801,7 @@
         "sha256": "2374676cd260713b75ebd35bb4c4ab9925d21671401b602244e0e598842d2f17"
       },
       "size": 1018042,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/immersive_furniture-neoforge-0.3.3+1.21.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/immersive_furniture-neoforge-0.3.3%2B1.21.1.jar"
     },
     {
       "path": "mods/immersive_paintings-neoforge-1.21.1-0.7.8.jar",
@@ -825,7 +825,7 @@
         "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
       },
       "size": 2540723,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar"
     },
     {
       "path": "mods/jei-1.21.1-neoforge-19.54.0.429.jar",
@@ -889,7 +889,7 @@
         "sha256": "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
       },
       "size": 774220,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/lithium-neoforge-0.15.4+mc1.21.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/lithium-neoforge-0.15.4%2Bmc1.21.1.jar"
     },
     {
       "path": "mods/loadingbackgrounds-2.0.0-neoforge-1.20.2_to_1.21.1.jar",
@@ -905,7 +905,7 @@
         "sha256": "1beb157efdb32e2e19eabb31bd93ffe87002f13b2904f621a898c6af33e524b6"
       },
       "size": 168064,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/LocatorBar-neoforge-1.2.2+1.21.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/LocatorBar-neoforge-1.2.2%2B1.21.1.jar"
     },
     {
       "path": "mods/lootr-neoforge-1.21.1-1.11.38.125.jar",
@@ -993,7 +993,7 @@
         "sha256": "e6e9446890f0feb3aab3f6e73ae18cb17575c370f232179fef7baa30e61538fe"
       },
       "size": 604333,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/modernfix-neoforge-5.27.24+mc1.21.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/modernfix-neoforge-5.27.24%2Bmc1.21.1.jar"
     },
     {
       "path": "mods/monolib-neoforge-1.21.1-4.1.0.jar",
@@ -1113,7 +1113,7 @@
         "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
       },
       "size": 203149,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/player-animation-lib-forge-2.0.4+1.21.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/player-animation-lib-forge-2.0.4%2B1.21.1.jar"
     },
     {
       "path": "mods/polylib-2100.1.0-build.183-neoforge.jar",
@@ -1129,7 +1129,7 @@
         "sha256": "4a09b7a3c8ea4f5b79acadb405a18140fe20d882e6930403c46cc7ad49c5ec06"
       },
       "size": 172671,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/polymorph-neoforge-1.2.0+1.21.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/polymorph-neoforge-1.2.0%2B1.21.1.jar"
     },
     {
       "path": "mods/ragdoll_reactions-1.21.1-0.7.0.jar",
@@ -1161,7 +1161,7 @@
         "sha256": "25812f308a87c04686de6ac9f24a8073101f81864f0eb9abf348f95d73a6629e"
       },
       "size": 260876,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/reeses-sodium-options-neoforge-2.2.3%2Bmc1.21.1.jar"
     },
     {
       "path": "mods/reliable_advancements-neoforge-1.21.1-6.2.4.jar.disabled",
@@ -1257,7 +1257,7 @@
         "sha256": "a5706aa0bb3a47c5f1adab44306685736688ec03414f60beb4fcbe05b99f5a82"
       },
       "size": 1462674,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/servercore-neoforge-1.5.19+1.21.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/servercore-neoforge-1.5.19%2B1.21.1.jar"
     },
     {
       "path": "mods/shrink-2.0.2.53-neoforge.jar",
@@ -1289,7 +1289,7 @@
         "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d"
       },
       "size": 1292934,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/sodium-neoforge-0.8.13+mc1.21.1.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/sodium-neoforge-0.8.13%2Bmc1.21.1.jar"
     },
     {
       "path": "mods/sophisticatedbackpacks-1.21.1-3.26.3.2158.jar",
@@ -1473,7 +1473,7 @@
         "sha256": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
       },
       "size": 1118651,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar"
     },
     {
       "path": "mods/YungsApi-1.21.1-NeoForge-5.1.8.jar",
