@@ -11,9 +11,9 @@
   "maxRamMb": 8192,
   "serverAddress": "play.hyzen.top:25565",
   "packDownloadUrl": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/packs/hyzen-modded-pack.zip",
-  "updatedAt": "2026-09-14T09:30:45.630475Z",
-  "totalMods": 181,
-  "totalBytes": 449749717,
+  "updatedAt": "2026-09-14T09:31:47.027667Z",
+  "totalMods": 182,
+  "totalBytes": 452179313,
   "security": {
     "hashAlgorithm": "SHA256",
     "verifiedOrigin": "https://github.com/xstemusic/hyzen-dist"
@@ -482,6 +482,14 @@
       },
       "size": 49100,
       "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/createschematichelper-neoforge-mc1.21.1-2.0.3.jar"
+    },
+    {
+      "path": "mods/creatingspace-1.21.1-1.7.20.jar",
+      "hashes": {
+        "sha256": "b128a2f01beb25dd11914807070f77d9b91013a7bb38d2a2f6a29237b2dd6df6"
+      },
+      "size": 2429596,
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/creatingspace-1.21.1-1.7.20.jar"
     },
     {
       "path": "mods/CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.jar",
