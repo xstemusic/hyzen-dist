@@ -11,7 +11,7 @@
   "maxRamMb": 8192,
   "serverAddress": "play.hyzen.top:25565",
   "packDownloadUrl": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/packs/hyzen-modded-pack.zip",
-  "updatedAt": "2026-09-14T19:03:44.752638Z",
+  "updatedAt": "2026-09-14T19:40:08.148890Z",
   "totalMods": 181,
   "totalBytes": 455426684,
   "security": {
@@ -21,6 +21,8 @@
   "files": [
     {
       "path": "mods/HYZEN-[1.21.1] SecurityCraft v1.10.2.1.jar",
+      "original_name": "[1.21.1] SecurityCraft v1.10.2.1.jar",
+      "originalName": "[1.21.1] SecurityCraft v1.10.2.1.jar",
       "hashes": {
         "sha256": "75ac9e73c60caf58df7069f167dbacc00a640e1418207dff654f56a5fdb5f229"
       },
@@ -29,6 +31,8 @@
     },
     {
       "path": "mods/HYZEN-aerocopycats-1.1.1.jar",
+      "original_name": "aerocopycats-1.1.1.jar",
+      "originalName": "aerocopycats-1.1.1.jar",
       "hashes": {
         "sha256": "3199c2afddb6eea98f041ea9a36aed71542213aedf0fdd0da21f6be4a1e72ae8"
       },
@@ -37,6 +41,8 @@
     },
     {
       "path": "mods/HYZEN-alltheleaks-1.1.12+1.21.1-neoforge.jar",
+      "original_name": "alltheleaks-1.1.12+1.21.1-neoforge.jar",
+      "originalName": "alltheleaks-1.1.12+1.21.1-neoforge.jar",
       "hashes": {
         "sha256": "ca64ec07c29cadb0e7703e993fbaad26029ebc4203626d2638aefe989e5be74f"
       },
@@ -45,6 +51,8 @@
     },
     {
       "path": "mods/HYZEN-alternate_current-mc1.21-1.9.0.jar",
+      "original_name": "alternate_current-mc1.21-1.9.0.jar",
+      "originalName": "alternate_current-mc1.21-1.9.0.jar",
       "hashes": {
         "sha256": "d23731fcb31cf561544fd7a97b0076b3abb42a0ece0631f86de9a1425fe046f5"
       },
@@ -53,6 +61,8 @@
     },
     {
       "path": "mods/HYZEN-AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+      "original_name": "AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+      "originalName": "AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
       "hashes": {
         "sha256": "07ee6fd24d8427ee079e2e376095b0ac92450b0153331f1575f8195e2c9cf90b"
       },
@@ -61,6 +71,8 @@
     },
     {
       "path": "mods/HYZEN-appleskin-neoforge-mc1.21-3.0.9.jar",
+      "original_name": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "originalName": "appleskin-neoforge-mc1.21-3.0.9.jar",
       "hashes": {
         "sha256": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
       },
@@ -69,6 +81,8 @@
     },
     {
       "path": "mods/HYZEN-architectury-13.0.11-neoforge.jar",
+      "original_name": "architectury-13.0.11-neoforge.jar",
+      "originalName": "architectury-13.0.11-neoforge.jar",
       "hashes": {
         "sha256": "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb"
       },
@@ -77,6 +91,8 @@
     },
     {
       "path": "mods/HYZEN-BadOptimizations-2.4.1-1.21.1.jar",
+      "original_name": "BadOptimizations-2.4.1-1.21.1.jar",
+      "originalName": "BadOptimizations-2.4.1-1.21.1.jar",
       "hashes": {
         "sha256": "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba"
       },
@@ -85,6 +101,8 @@
     },
     {
       "path": "mods/HYZEN-balm-neoforge-1.21.1-21.0.65.jar",
+      "original_name": "balm-neoforge-1.21.1-21.0.65.jar",
+      "originalName": "balm-neoforge-1.21.1-21.0.65.jar",
       "hashes": {
         "sha256": "490fa5fcb7ca83a9b5a84e33c2832298db99d189131001b9277a1de7fdc0bf91"
       },
@@ -93,6 +111,8 @@
     },
     {
       "path": "mods/HYZEN-be_quiet_negotiator-2.0.0-rc1+1.21.1.jar",
+      "original_name": "be_quiet_negotiator-2.0.0-rc1+1.21.1.jar",
+      "originalName": "be_quiet_negotiator-2.0.0-rc1+1.21.1.jar",
       "hashes": {
         "sha256": "0d6db835dfe228330f45542f9ca659c9cc996d78a47621150176709768fc8672"
       },
@@ -101,6 +121,8 @@
     },
     {
       "path": "mods/HYZEN-BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "original_name": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "originalName": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
       "hashes": {
         "sha256": "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26"
       },
@@ -109,6 +131,8 @@
     },
     {
       "path": "mods/HYZEN-betterfpsdist-1.21.1-6.1.jar",
+      "original_name": "betterfpsdist-1.21.1-6.1.jar",
+      "originalName": "betterfpsdist-1.21.1-6.1.jar",
       "hashes": {
         "sha256": "0c9a93977f574563b3fa425a8ea934333ce8ae4e282771dd3bcd4248d56f1b03"
       },
@@ -117,6 +141,8 @@
     },
     {
       "path": "mods/HYZEN-BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
+      "original_name": "BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
+      "originalName": "BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
       "hashes": {
         "sha256": "5f3c8d752c2e0464eca8c9527d8ffe498129fd37a2fe86a266b64c98371763b1"
       },
@@ -125,6 +151,8 @@
     },
     {
       "path": "mods/HYZEN-blueprint-1.21.1-8.2.0.jar",
+      "original_name": "blueprint-1.21.1-8.2.0.jar",
+      "originalName": "blueprint-1.21.1-8.2.0.jar",
       "hashes": {
         "sha256": "698b2e901e371202a583c1057fa50bb7b2415a359263b37dc8e62d3b73ea8a74"
       },
@@ -133,6 +161,8 @@
     },
     {
       "path": "mods/HYZEN-BrewinAndChewin-neoforge-4.5.0+1.21.1.jar",
+      "original_name": "BrewinAndChewin-neoforge-4.5.0+1.21.1.jar",
+      "originalName": "BrewinAndChewin-neoforge-4.5.0+1.21.1.jar",
       "hashes": {
         "sha256": "9f6581823c2449dde4ac1e9b4f5a7cc226c42e058e656741ab392f714f443971"
       },
@@ -141,6 +171,8 @@
     },
     {
       "path": "mods/HYZEN-c2me-neoforge-mc1.21.1-0.4.0-alpha.0.120.jar",
+      "original_name": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.120.jar",
+      "originalName": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.120.jar",
       "hashes": {
         "sha256": "67fe384ae84f947e999a02ebde5f5e7de3a632803304a625beee9c4268509a76"
       },
@@ -149,6 +181,8 @@
     },
     {
       "path": "mods/HYZEN-carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "original_name": "carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "originalName": "carryon-neoforge-1.21.1-2.2.6.13.jar",
       "hashes": {
         "sha256": "d4f9576b6593db9486a89d35c1d84c31ee89141d99dbae2aa470350ab53c4e09"
       },
@@ -157,6 +191,8 @@
     },
     {
       "path": "mods/HYZEN-catalogue-neoforge-1.21.1-1.11.2.jar",
+      "original_name": "catalogue-neoforge-1.21.1-1.11.2.jar",
+      "originalName": "catalogue-neoforge-1.21.1-1.11.2.jar",
       "hashes": {
         "sha256": "b3c958772c61354fccf04b52264f2e398c8bf9a28d192d675bf82359b647ef43"
       },
@@ -165,6 +201,8 @@
     },
     {
       "path": "mods/HYZEN-CBCmoreshells-1.2.2.jar",
+      "original_name": "CBCmoreshells-1.2.2.jar",
+      "originalName": "CBCmoreshells-1.2.2.jar",
       "hashes": {
         "sha256": "5199cb51628cb31204f6fbfc5627f50446b0419f91c3b2d90eb941dd5341b8fd"
       },
@@ -173,6 +211,8 @@
     },
     {
       "path": "mods/HYZEN-chisels-and-bits-neoforge-21.1.33.jar",
+      "original_name": "chisels-and-bits-neoforge-21.1.33.jar",
+      "originalName": "chisels-and-bits-neoforge-21.1.33.jar",
       "hashes": {
         "sha256": "e725e11ac0e15d73d10f5248ce6b77e823233babbcf7434afe3db6e6ae553af5"
       },
@@ -181,6 +221,8 @@
     },
     {
       "path": "mods/HYZEN-chloride-NEOFORGE-mc1.21.1-v1.8.1.jar",
+      "original_name": "chloride-NEOFORGE-mc1.21.1-v1.8.1.jar",
+      "originalName": "chloride-NEOFORGE-mc1.21.1-v1.8.1.jar",
       "hashes": {
         "sha256": "d0b0a80a241078f917afb96e53821d7c70c38faebaca9adee0c86a9a8cb482c1"
       },
@@ -189,6 +231,8 @@
     },
     {
       "path": "mods/HYZEN-chunksending-1.21-3.9.jar",
+      "original_name": "chunksending-1.21-3.9.jar",
+      "originalName": "chunksending-1.21-3.9.jar",
       "hashes": {
         "sha256": "b3154f9d2f531cbc21d5add8b050d75f6605907a19294d5d4ecccc9ff3dd9982"
       },
@@ -197,6 +241,8 @@
     },
     {
       "path": "mods/HYZEN-Chunky-NeoForge-1.4.23.jar",
+      "original_name": "Chunky-NeoForge-1.4.23.jar",
+      "originalName": "Chunky-NeoForge-1.4.23.jar",
       "hashes": {
         "sha256": "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
       },
@@ -205,6 +251,8 @@
     },
     {
       "path": "mods/HYZEN-citresewn-neoforge-1.21.1-0.jar",
+      "original_name": "citresewn-neoforge-1.21.1-0.jar",
+      "originalName": "citresewn-neoforge-1.21.1-0.jar",
       "hashes": {
         "sha256": "b0447d544c345acb958b611b1fe85d47d9c997a7c7e75a4a14266e8f7e95686f"
       },
@@ -213,6 +261,8 @@
     },
     {
       "path": "mods/HYZEN-clientcrafting-1.21-2.1.jar",
+      "original_name": "clientcrafting-1.21-2.1.jar",
+      "originalName": "clientcrafting-1.21-2.1.jar",
       "hashes": {
         "sha256": "318a7a7c28b9d5cbeecb69f8e27eb8d1b638d991108316364c64dc8bc5f013c0"
       },
@@ -221,6 +271,8 @@
     },
     {
       "path": "mods/HYZEN-cloth-config-15.0.140-neoforge.jar",
+      "original_name": "cloth-config-15.0.140-neoforge.jar",
+      "originalName": "cloth-config-15.0.140-neoforge.jar",
       "hashes": {
         "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
       },
@@ -229,6 +281,8 @@
     },
     {
       "path": "mods/HYZEN-Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "original_name": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "originalName": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
       "hashes": {
         "sha256": "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e"
       },
@@ -237,6 +291,8 @@
     },
     {
       "path": "mods/HYZEN-colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+      "original_name": "colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+      "originalName": "colorwheel-neoforge-1.2.9+mc1.21.1.jar",
       "hashes": {
         "sha256": "9259e4adb5b091fe2bd60e57be7f0b2ec9872f1c97ff6d2ed3bb2a9a5ec6407f"
       },
@@ -245,6 +301,8 @@
     },
     {
       "path": "mods/HYZEN-comforts-neoforge-9.0.5+1.21.1.jar",
+      "original_name": "comforts-neoforge-9.0.5+1.21.1.jar",
+      "originalName": "comforts-neoforge-9.0.5+1.21.1.jar",
       "hashes": {
         "sha256": "6b0fd35a1349107e08a45539adbde9683bb203febc43a3305f6fc4ac73e59615"
       },
@@ -253,6 +311,8 @@
     },
     {
       "path": "mods/HYZEN-connectivity-1.21.1-7.6.jar",
+      "original_name": "connectivity-1.21.1-7.6.jar",
+      "originalName": "connectivity-1.21.1-7.6.jar",
       "hashes": {
         "sha256": "2366973ddae5ba00b9ba15a26e5b610a6648038b9f2549bf81b9ae61342b281a"
       },
@@ -261,6 +321,8 @@
     },
     {
       "path": "mods/HYZEN-Controlling-neoforge-1.21.1-19.0.5.jar",
+      "original_name": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "originalName": "Controlling-neoforge-1.21.1-19.0.5.jar",
       "hashes": {
         "sha256": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
       },
@@ -269,6 +331,8 @@
     },
     {
       "path": "mods/HYZEN-copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "original_name": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "originalName": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
       "hashes": {
         "sha256": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
       },
@@ -277,6 +341,8 @@
     },
     {
       "path": "mods/HYZEN-corpse-neoforge-1.21.1-1.1.13.jar",
+      "original_name": "corpse-neoforge-1.21.1-1.1.13.jar",
+      "originalName": "corpse-neoforge-1.21.1-1.1.13.jar",
       "hashes": {
         "sha256": "f61e750eb2cb49867483d34d6630e02597a52e41680fc38d1c65ece4ef36fd2b"
       },
@@ -285,6 +351,8 @@
     },
     {
       "path": "mods/HYZEN-cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "original_name": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "originalName": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
       "hashes": {
         "sha256": "6328049755735159c55f5918ac301cff53a8d8790c3fe63e32e7d8a0e37f123f"
       },
@@ -293,6 +361,8 @@
     },
     {
       "path": "mods/HYZEN-cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar",
+      "original_name": "cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar",
+      "originalName": "cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar",
       "hashes": {
         "sha256": "549c6b3447fbfad2e99bd2a0ca034dc433e1ff5975ad505902998bdfcab20f00"
       },
@@ -301,6 +371,8 @@
     },
     {
       "path": "mods/HYZEN-crashexploitfixer-neoforge-2.0.0+1.21.4.jar",
+      "original_name": "crashexploitfixer-neoforge-2.0.0+1.21.4.jar",
+      "originalName": "crashexploitfixer-neoforge-2.0.0+1.21.4.jar",
       "hashes": {
         "sha256": "32c7be498962d54b28dfb902c1509596442048a3ae72bd3f7884ab853d0e4464"
       },
@@ -309,6 +381,8 @@
     },
     {
       "path": "mods/HYZEN-crashutilities-9.0.4.jar",
+      "original_name": "crashutilities-9.0.4.jar",
+      "originalName": "crashutilities-9.0.4.jar",
       "hashes": {
         "sha256": "67a47d02f7f7c8b291e920416eb96242bd48f0cbc50f947adb439c4212ea39f9"
       },
@@ -317,6 +391,8 @@
     },
     {
       "path": "mods/HYZEN-create-1.21.1-6.0.10.jar",
+      "original_name": "create-1.21.1-6.0.10.jar",
+      "originalName": "create-1.21.1-6.0.10.jar",
       "hashes": {
         "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
       },
@@ -325,6 +401,8 @@
     },
     {
       "path": "mods/HYZEN-create-access-denied-0.0.4+c6.0.10.mc1.21.1.jar",
+      "original_name": "create-access-denied-0.0.4+c6.0.10.mc1.21.1.jar",
+      "originalName": "create-access-denied-0.0.4+c6.0.10.mc1.21.1.jar",
       "hashes": {
         "sha256": "d8098deb0efe397b5f6682281f4600ce88f1d7bf3b02390b03a2667b4f2c1872"
       },
@@ -333,6 +411,8 @@
     },
     {
       "path": "mods/HYZEN-create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "original_name": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "originalName": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
       "hashes": {
         "sha256": "24c1e2df1cd5590db026568f031019aa191fe7ee6cc5d2a9ad209846a510ebb1"
       },
@@ -341,6 +421,8 @@
     },
     {
       "path": "mods/HYZEN-create-gunsmithing-1.21.1-1.4.8.jar",
+      "original_name": "create-gunsmithing-1.21.1-1.4.8.jar",
+      "originalName": "create-gunsmithing-1.21.1-1.4.8.jar",
       "hashes": {
         "sha256": "cac9632e74717f75c0bfce702ac0a3431c77314c04f53bc71aa161d3778c58df"
       },
@@ -349,6 +431,8 @@
     },
     {
       "path": "mods/HYZEN-create_connected-1.3.2-mc1.21.1.jar",
+      "original_name": "create_connected-1.3.2-mc1.21.1.jar",
+      "originalName": "create_connected-1.3.2-mc1.21.1.jar",
       "hashes": {
         "sha256": "90bdceac63cb0ebd5e51351e22136182b996512edef937d0635d2857b0a3f24b"
       },
@@ -357,6 +441,8 @@
     },
     {
       "path": "mods/HYZEN-create_generators-1.2.5-neoforge-1.21.1.jar",
+      "original_name": "create_generators-1.2.5-neoforge-1.21.1.jar",
+      "originalName": "create_generators-1.2.5-neoforge-1.21.1.jar",
       "hashes": {
         "sha256": "04789729c6708f1ce03e2d8022007f91143da708820b2b54a227714fdc58ebd2"
       },
@@ -365,6 +451,8 @@
     },
     {
       "path": "mods/HYZEN-create_jetpack-forge-5.1.2.jar",
+      "original_name": "create_jetpack-forge-5.1.2.jar",
+      "originalName": "create_jetpack-forge-5.1.2.jar",
       "hashes": {
         "sha256": "9fe5a681ea841ce9dc02e7132cd360e1c3e75314905b4ef1493e7548265d0985"
       },
@@ -373,6 +461,8 @@
     },
     {
       "path": "mods/HYZEN-create_netherless-2.0.0-1.21.1.jar",
+      "original_name": "create_netherless-2.0.0-1.21.1.jar",
+      "originalName": "create_netherless-2.0.0-1.21.1.jar",
       "hashes": {
         "sha256": "67b3d46046eb9c661825df4f6d72098b4e7bdf2918c5b797b16d66ee957e189d"
       },
@@ -381,6 +471,8 @@
     },
     {
       "path": "mods/HYZEN-create_radar-0.4.9.4-1.21.1.jar",
+      "original_name": "create_radar-0.4.9.4-1.21.1.jar",
+      "originalName": "create_radar-0.4.9.4-1.21.1.jar",
       "hashes": {
         "sha256": "4554359fee389b1c255b4cef23ac41e978b2a371cec9e952185f4ec0a90ee930"
       },
@@ -389,6 +481,8 @@
     },
     {
       "path": "mods/HYZEN-create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+      "original_name": "create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+      "originalName": "create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
       "hashes": {
         "sha256": "b95dcdd43c859eaf1825f33b2b4c42226187a1e875d368b0b24ed0be1e0fa1b0"
       },
@@ -397,6 +491,8 @@
     },
     {
       "path": "mods/HYZEN-createbetterfps-1.21.1-1.1.4.jar",
+      "original_name": "createbetterfps-1.21.1-1.1.4.jar",
+      "originalName": "createbetterfps-1.21.1-1.1.4.jar",
       "hashes": {
         "sha256": "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a"
       },
@@ -405,6 +501,8 @@
     },
     {
       "path": "mods/HYZEN-createbigcannons-5.11.7+mc.1.21.1.jar",
+      "original_name": "createbigcannons-5.11.7+mc.1.21.1.jar",
+      "originalName": "createbigcannons-5.11.7+mc.1.21.1.jar",
       "hashes": {
         "sha256": "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
       },
@@ -413,6 +511,8 @@
     },
     {
       "path": "mods/HYZEN-createcardboardthings-1.21.1-1.0.2.jar",
+      "original_name": "createcardboardthings-1.21.1-1.0.2.jar",
+      "originalName": "createcardboardthings-1.21.1-1.0.2.jar",
       "hashes": {
         "sha256": "9b1d7cd9bd9cc845eb9e7a0a2c7f1c61d8890be7628ddbc3b46175d4811886f6"
       },
@@ -421,6 +521,8 @@
     },
     {
       "path": "mods/HYZEN-CreateCyberGoggles-1.21.1-8.2.0-NeoForge.jar",
+      "original_name": "CreateCyberGoggles-1.21.1-8.2.0-NeoForge.jar",
+      "originalName": "CreateCyberGoggles-1.21.1-8.2.0-NeoForge.jar",
       "hashes": {
         "sha256": "3778155ba479d705bba7faa6958d4e24795e1bb44f8fcc80c435db3398cfb24b"
       },
@@ -429,6 +531,8 @@
     },
     {
       "path": "mods/HYZEN-CreateFastSchematicCannon-1.4.1-neoforge-1.21.1.jar",
+      "original_name": "CreateFastSchematicCannon-1.4.1-neoforge-1.21.1.jar",
+      "originalName": "CreateFastSchematicCannon-1.4.1-neoforge-1.21.1.jar",
       "hashes": {
         "sha256": "5dbc33a64c01e8fef09585fae9d09c9ae04b800e3c4315ace85901a68eb5fae3"
       },
@@ -437,6 +541,8 @@
     },
     {
       "path": "mods/HYZEN-createfood-neoforge-1.21.1-2.6.0.jar",
+      "original_name": "createfood-neoforge-1.21.1-2.6.0.jar",
+      "originalName": "createfood-neoforge-1.21.1-2.6.0.jar",
       "hashes": {
         "sha256": "0e6de446dc911144c3148b091e038f279872ce911bf5436caf43ac649e4c6bc1"
       },
@@ -445,6 +551,8 @@
     },
     {
       "path": "mods/HYZEN-CreateLazyTick-2.4.9-6.0.x-neoforge-1.21.1.jar",
+      "original_name": "CreateLazyTick-2.4.9-6.0.x-neoforge-1.21.1.jar",
+      "originalName": "CreateLazyTick-2.4.9-6.0.x-neoforge-1.21.1.jar",
       "hashes": {
         "sha256": "5650aaf4b01c500844048d58e8c0ff21dc63e32809867588efb4ef60d9638c62"
       },
@@ -453,6 +561,8 @@
     },
     {
       "path": "mods/HYZEN-createrailgrinding-1.2.1.jar",
+      "original_name": "createrailgrinding-1.2.1.jar",
+      "originalName": "createrailgrinding-1.2.1.jar",
       "hashes": {
         "sha256": "3abcc381b044da297380cc2634dac4ddf4e9c30e24f60fcc751b26e0686b407c"
       },
@@ -461,6 +571,8 @@
     },
     {
       "path": "mods/HYZEN-createschematicchecker-1.21.27-6.0-neoforge-1.21.1.jar",
+      "original_name": "createschematicchecker-1.21.27-6.0-neoforge-1.21.1.jar",
+      "originalName": "createschematicchecker-1.21.27-6.0-neoforge-1.21.1.jar",
       "hashes": {
         "sha256": "92e3bd1fc41abffeda12fd6defae457158cd68f9c80d4c0cb7b3c70973da392f"
       },
@@ -469,6 +581,8 @@
     },
     {
       "path": "mods/HYZEN-createschematichelper-neoforge-mc1.21.1-2.0.3.jar",
+      "original_name": "createschematichelper-neoforge-mc1.21.1-2.0.3.jar",
+      "originalName": "createschematichelper-neoforge-mc1.21.1-2.0.3.jar",
       "hashes": {
         "sha256": "37861368c099d8fef621c97c630168987614b11cc6979376e7c267b39a57574d"
       },
@@ -477,6 +591,8 @@
     },
     {
       "path": "mods/HYZEN-creatingspace-1.21.1-1.7.20.jar",
+      "original_name": "creatingspace-1.21.1-1.7.20.jar",
+      "originalName": "creatingspace-1.21.1-1.7.20.jar",
       "hashes": {
         "sha256": "b128a2f01beb25dd11914807070f77d9b91013a7bb38d2a2f6a29237b2dd6df6"
       },
@@ -485,6 +601,8 @@
     },
     {
       "path": "mods/HYZEN-CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.jar",
+      "original_name": "CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.jar",
+      "originalName": "CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.jar",
       "hashes": {
         "sha256": "3fe2144fc608978203681f5c787dd75034879baf135372cc2302d6218ea75932"
       },
@@ -493,6 +611,8 @@
     },
     {
       "path": "mods/HYZEN-cupboard-1.21.1-4.1.jar",
+      "original_name": "cupboard-1.21.1-4.1.jar",
+      "originalName": "cupboard-1.21.1-4.1.jar",
       "hashes": {
         "sha256": "7d3f1bcca3acf2e7b1f3d359d5e0691cbb5a0f95869064752e7612b2d13e5b9e"
       },
@@ -501,6 +621,8 @@
     },
     {
       "path": "mods/HYZEN-defaultoptions-neoforge-1.21.1-21.1.8.jar",
+      "original_name": "defaultoptions-neoforge-1.21.1-21.1.8.jar",
+      "originalName": "defaultoptions-neoforge-1.21.1-21.1.8.jar",
       "hashes": {
         "sha256": "d12790dc1f0857778d282c00ad5be56882ac6fce44769c1f012be09b5604874a"
       },
@@ -509,6 +631,8 @@
     },
     {
       "path": "mods/HYZEN-dimworldborder-1.21.1-1.1.1-universal.jar",
+      "original_name": "dimworldborder-1.21.1-1.1.1-universal.jar",
+      "originalName": "dimworldborder-1.21.1-1.1.1-universal.jar",
       "hashes": {
         "sha256": "c90ae5e76ea622f2ba19160a3cb742f4a2d4a876ce01eadb6fb70fd3d5d115b7"
       },
@@ -517,6 +641,8 @@
     },
     {
       "path": "mods/HYZEN-disconnect-packet-fix-neoforge-2.0.1.jar",
+      "original_name": "disconnect-packet-fix-neoforge-2.0.1.jar",
+      "originalName": "disconnect-packet-fix-neoforge-2.0.1.jar",
       "hashes": {
         "sha256": "6254f47c73249108706860505f8261b0273aafdc53fe8008aadfca162f0cfd3b"
       },
@@ -525,6 +651,8 @@
     },
     {
       "path": "mods/HYZEN-displaydelight-1.7.0.jar",
+      "original_name": "displaydelight-1.7.0.jar",
+      "originalName": "displaydelight-1.7.0.jar",
       "hashes": {
         "sha256": "4a77575139aa2fd1e1887243461e4f5cf1a532ac0a3a4d3a80c469d07a6df55c"
       },
@@ -533,6 +661,8 @@
     },
     {
       "path": "mods/HYZEN-DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+      "original_name": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+      "originalName": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
       "hashes": {
         "sha256": "d6a7a963f794501678113e2545d8b25c90e123ef6b9256bb5716907d059e1ef5"
       },
@@ -541,6 +671,8 @@
     },
     {
       "path": "mods/HYZEN-dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "original_name": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "originalName": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
       "hashes": {
         "sha256": "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e"
       },
@@ -549,6 +681,8 @@
     },
     {
       "path": "mods/HYZEN-ears-buzz-neoforge-2.2.1-c.jar",
+      "original_name": "ears-buzz-neoforge-2.2.1-c.jar",
+      "originalName": "ears-buzz-neoforge-2.2.1-c.jar",
       "hashes": {
         "sha256": "ef5802a0d0b8872998db77a066a456a23061e1125a4e420d3827d6304dcd8abc"
       },
@@ -557,6 +691,8 @@
     },
     {
       "path": "mods/HYZEN-easy-villagers-neoforge-1.21.1-1.1.42.jar",
+      "original_name": "easy-villagers-neoforge-1.21.1-1.1.42.jar",
+      "originalName": "easy-villagers-neoforge-1.21.1-1.1.42.jar",
       "hashes": {
         "sha256": "e093c86ce419fc1fab1533bed5fa95b509b1f7240760c5ab628de228b55c9d50"
       },
@@ -565,6 +701,8 @@
     },
     {
       "path": "mods/HYZEN-elementalmaces-neoforge-1.21-1.0.0.jar",
+      "original_name": "elementalmaces-neoforge-1.21-1.0.0.jar",
+      "originalName": "elementalmaces-neoforge-1.21-1.0.0.jar",
       "hashes": {
         "sha256": "5f015c9a8ff26ec2db322d332f22248bbe15852bb86296cbd9c0957422bb6d6e"
       },
@@ -573,6 +711,8 @@
     },
     {
       "path": "mods/HYZEN-emberstextapi-neoforge-1.21.1-3.0.3.jar",
+      "original_name": "emberstextapi-neoforge-1.21.1-3.0.3.jar",
+      "originalName": "emberstextapi-neoforge-1.21.1-3.0.3.jar",
       "hashes": {
         "sha256": "20b2e39f2a8d357e47b4223292c37e620f71764695a037441d506498d99c93ab"
       },
@@ -581,6 +721,8 @@
     },
     {
       "path": "mods/HYZEN-emi-1.1.24+1.21.1+neoforge.jar",
+      "original_name": "emi-1.1.24+1.21.1+neoforge.jar",
+      "originalName": "emi-1.1.24+1.21.1+neoforge.jar",
       "hashes": {
         "sha256": "b68691f94f0727fc517cac2ab55bd6658d1179cc8cc715fe610b60c37469bc4c"
       },
@@ -589,6 +731,8 @@
     },
     {
       "path": "mods/HYZEN-emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+      "original_name": "emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+      "originalName": "emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
       "hashes": {
         "sha256": "8cff63e900acd55bb39d41978cc2a70a974e326e2038c30ff20ccfde4c953a43"
       },
@@ -597,6 +741,8 @@
     },
     {
       "path": "mods/HYZEN-entity_model_features-3.3.5-1.21-neoforge.jar",
+      "original_name": "entity_model_features-3.3.5-1.21-neoforge.jar",
+      "originalName": "entity_model_features-3.3.5-1.21-neoforge.jar",
       "hashes": {
         "sha256": "68d185eeadb63f6669f2040cc35c4d2abaae7619c311d7b541d31628785e45db"
       },
@@ -605,6 +751,8 @@
     },
     {
       "path": "mods/HYZEN-entity_texture_features-7.2.1-1.21-neoforge.jar",
+      "original_name": "entity_texture_features-7.2.1-1.21-neoforge.jar",
+      "originalName": "entity_texture_features-7.2.1-1.21-neoforge.jar",
       "hashes": {
         "sha256": "20d550603624a9702de92287d151536d6b98484de6ccdda23ea4452e1066264a"
       },
@@ -613,6 +761,8 @@
     },
     {
       "path": "mods/HYZEN-entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "original_name": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "originalName": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
       "hashes": {
         "sha256": "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02"
       },
@@ -621,6 +771,8 @@
     },
     {
       "path": "mods/HYZEN-exposure-neoforge-1.21.1-1.9.18.jar",
+      "original_name": "exposure-neoforge-1.21.1-1.9.18.jar",
+      "originalName": "exposure-neoforge-1.21.1-1.9.18.jar",
       "hashes": {
         "sha256": "674c537a99f69b2bae53521c95dae59bc5f4eb2eb15418eec0ecbaf36b53d888"
       },
@@ -629,6 +781,8 @@
     },
     {
       "path": "mods/HYZEN-fallingleaves-1.21.1-2.5.1.jar",
+      "original_name": "fallingleaves-1.21.1-2.5.1.jar",
+      "originalName": "fallingleaves-1.21.1-2.5.1.jar",
       "hashes": {
         "sha256": "3c03b49b5f35481d4baf61ec1fe04233b39cb5a34f7447be04f7d4efd2976834"
       },
@@ -637,6 +791,8 @@
     },
     {
       "path": "mods/HYZEN-FarmersDelight-1.21.1-1.3.4.jar",
+      "original_name": "FarmersDelight-1.21.1-1.3.4.jar",
+      "originalName": "FarmersDelight-1.21.1-1.3.4.jar",
       "hashes": {
         "sha256": "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c"
       },
@@ -645,6 +801,8 @@
     },
     {
       "path": "mods/HYZEN-fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+      "original_name": "fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+      "originalName": "fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
       "hashes": {
         "sha256": "c93500aa25eaa7bc473e753b8abf4234e7c46713d50bb82b30383ee47e646f5a"
       },
@@ -653,6 +811,8 @@
     },
     {
       "path": "mods/HYZEN-fastasyncworldsave-1.21-2.6.jar",
+      "original_name": "fastasyncworldsave-1.21-2.6.jar",
+      "originalName": "fastasyncworldsave-1.21-2.6.jar",
       "hashes": {
         "sha256": "099316ee212ff44bcd7aea853f0153cd28432e0297676d21f61e8b000089714f"
       },
@@ -661,6 +821,8 @@
     },
     {
       "path": "mods/HYZEN-fastpaintings-1.21-1.3.0-neoforge.jar",
+      "original_name": "fastpaintings-1.21-1.3.0-neoforge.jar",
+      "originalName": "fastpaintings-1.21-1.3.0-neoforge.jar",
       "hashes": {
         "sha256": "782afb6f4c631c9d3313b6442d304b36336f794273dfa5c381485142020ca05a"
       },
@@ -669,6 +831,8 @@
     },
     {
       "path": "mods/HYZEN-ferritecore-7.0.3-neoforge.jar",
+      "original_name": "ferritecore-7.0.3-neoforge.jar",
+      "originalName": "ferritecore-7.0.3-neoforge.jar",
       "hashes": {
         "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
       },
@@ -677,6 +841,8 @@
     },
     {
       "path": "mods/HYZEN-figura-0.1.6+1.21.1-neoforge-mc.jar",
+      "original_name": "figura-0.1.6+1.21.1-neoforge-mc.jar",
+      "originalName": "figura-0.1.6+1.21.1-neoforge-mc.jar",
       "hashes": {
         "sha256": "f379147b52953e8013c27ee5b9d1552618b649f80a0cbe974ed0c6e8de89515c"
       },
@@ -685,6 +851,8 @@
     },
     {
       "path": "mods/HYZEN-figuraextrabone-0.0.3-neoforge-1.21.1.jar",
+      "original_name": "figuraextrabone-0.0.3-neoforge-1.21.1.jar",
+      "originalName": "figuraextrabone-0.0.3-neoforge-1.21.1.jar",
       "hashes": {
         "sha256": "0db02e1390c25c79726bd20c2e15fc4269cea894812413de05df2d5d4cc09a0e"
       },
@@ -693,6 +861,8 @@
     },
     {
       "path": "mods/HYZEN-ftb-library-neoforge-2101.1.36.jar",
+      "original_name": "ftb-library-neoforge-2101.1.36.jar",
+      "originalName": "ftb-library-neoforge-2101.1.36.jar",
       "hashes": {
         "sha256": "5122579e4d55d77057e98a1403b6006dde95d397976fc3c2ee7dd066747c696f"
       },
@@ -701,6 +871,8 @@
     },
     {
       "path": "mods/HYZEN-ftb-quests-neoforge-2101.1.35.jar",
+      "original_name": "ftb-quests-neoforge-2101.1.35.jar",
+      "originalName": "ftb-quests-neoforge-2101.1.35.jar",
       "hashes": {
         "sha256": "e14d43857bbe7060dda3755e0fad9a13dc87013f39feeb4a90777d78491e10eb"
       },
@@ -709,6 +881,8 @@
     },
     {
       "path": "mods/HYZEN-ftb-teams-neoforge-2101.1.11.jar",
+      "original_name": "ftb-teams-neoforge-2101.1.11.jar",
+      "originalName": "ftb-teams-neoforge-2101.1.11.jar",
       "hashes": {
         "sha256": "e6bcd670493624e6906df872a9c6af4a33fe6405cac57a32c59cd4cd5838c655"
       },
@@ -717,6 +891,8 @@
     },
     {
       "path": "mods/HYZEN-fzzy_config-0.7.6+1.21+neoforge.jar",
+      "original_name": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "originalName": "fzzy_config-0.7.6+1.21+neoforge.jar",
       "hashes": {
         "sha256": "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
       },
@@ -725,6 +901,8 @@
     },
     {
       "path": "mods/HYZEN-geckolib-neoforge-1.21.1-4.9.2.jar",
+      "original_name": "geckolib-neoforge-1.21.1-4.9.2.jar",
+      "originalName": "geckolib-neoforge-1.21.1-4.9.2.jar",
       "hashes": {
         "sha256": "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba"
       },
@@ -733,6 +911,8 @@
     },
     {
       "path": "mods/HYZEN-Geophilic v3.6.mod.jar",
+      "original_name": "Geophilic v3.6.mod.jar",
+      "originalName": "Geophilic v3.6.mod.jar",
       "hashes": {
         "sha256": "5df284ed678c8f44d5f9b015736c18858d8b5706128bbe129fc35bc23208bd84"
       },
@@ -741,6 +921,8 @@
     },
     {
       "path": "mods/HYZEN-GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "original_name": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "originalName": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
       "hashes": {
         "sha256": "59d2a3fb3d6877e43018fd6a2b199d526074a864276a5f49091409a1cdc62fae"
       },
@@ -749,6 +931,8 @@
     },
     {
       "path": "mods/HYZEN-gpumemleakfix-1.21-1.8.jar",
+      "original_name": "gpumemleakfix-1.21-1.8.jar",
+      "originalName": "gpumemleakfix-1.21-1.8.jar",
       "hashes": {
         "sha256": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931"
       },
@@ -757,6 +941,8 @@
     },
     {
       "path": "mods/HYZEN-hyzenbridge-1.0.0.jar",
+      "original_name": "hyzenbridge-1.0.0.jar",
+      "originalName": "hyzenbridge-1.0.0.jar",
       "hashes": {
         "sha256": "addfb54fe945b1927a37a5db62aec30f259119b800133d85384e6da3f30fc067"
       },
@@ -765,6 +951,8 @@
     },
     {
       "path": "mods/HYZEN-ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar",
+      "original_name": "ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar",
+      "originalName": "ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar",
       "hashes": {
         "sha256": "fa3aec87e9880d0a8ab9663c96ad0206fd59de5e71acfccbebc264f7ad0ae153"
       },
@@ -773,6 +961,8 @@
     },
     {
       "path": "mods/HYZEN-immersive_aircraft-1.4.6+1.21.1-neoforge.jar",
+      "original_name": "immersive_aircraft-1.4.6+1.21.1-neoforge.jar",
+      "originalName": "immersive_aircraft-1.4.6+1.21.1-neoforge.jar",
       "hashes": {
         "sha256": "953222fefb9439b74760583d46dbf620ed85cc614f5ab629aec05ab6ce40ebe7"
       },
@@ -781,6 +971,8 @@
     },
     {
       "path": "mods/HYZEN-immersive_furniture-neoforge-0.3.3+1.21.1.jar",
+      "original_name": "immersive_furniture-neoforge-0.3.3+1.21.1.jar",
+      "originalName": "immersive_furniture-neoforge-0.3.3+1.21.1.jar",
       "hashes": {
         "sha256": "2374676cd260713b75ebd35bb4c4ab9925d21671401b602244e0e598842d2f17"
       },
@@ -789,6 +981,8 @@
     },
     {
       "path": "mods/HYZEN-immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+      "original_name": "immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+      "originalName": "immersive_paintings-neoforge-1.21.1-0.7.8.jar",
       "hashes": {
         "sha256": "c377f6dfaf5be5022761f6e3d6310ef90e59e10bd00bb252d78cff5381b2520c"
       },
@@ -797,6 +991,8 @@
     },
     {
       "path": "mods/HYZEN-iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "original_name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "originalName": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
       "hashes": {
         "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
       },
@@ -805,6 +1001,8 @@
     },
     {
       "path": "mods/HYZEN-jei-1.21.1-neoforge-19.54.0.429.jar",
+      "original_name": "jei-1.21.1-neoforge-19.54.0.429.jar",
+      "originalName": "jei-1.21.1-neoforge-19.54.0.429.jar",
       "hashes": {
         "sha256": "16f8d0ceca9a30ab1b600caa826925e129ada28c726e062a4143f4c9a0c8b085"
       },
@@ -813,6 +1011,8 @@
     },
     {
       "path": "mods/HYZEN-konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "original_name": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "originalName": "konkrete_neoforge_1.9.9_MC_1.21.jar",
       "hashes": {
         "sha256": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd"
       },
@@ -821,6 +1021,8 @@
     },
     {
       "path": "mods/HYZEN-kotlinforforge-5.12.0-all.jar",
+      "original_name": "kotlinforforge-5.12.0-all.jar",
+      "originalName": "kotlinforforge-5.12.0-all.jar",
       "hashes": {
         "sha256": "095aed94f21b4e55895b21ea957750ae3ab829fbcfc6d3c66a3489f5f1128d46"
       },
@@ -829,6 +1031,8 @@
     },
     {
       "path": "mods/HYZEN-kubejs-create-neoforge-2101.3.1-build.18.jar",
+      "original_name": "kubejs-create-neoforge-2101.3.1-build.18.jar",
+      "originalName": "kubejs-create-neoforge-2101.3.1-build.18.jar",
       "hashes": {
         "sha256": "60fab77c339e5757a97a9a1e2d4019ed2a610bd46583d4353c9a13596e01e614"
       },
@@ -837,6 +1041,8 @@
     },
     {
       "path": "mods/HYZEN-kubejs-neoforge-2101.7.2-build.377.jar",
+      "original_name": "kubejs-neoforge-2101.7.2-build.377.jar",
+      "originalName": "kubejs-neoforge-2101.7.2-build.377.jar",
       "hashes": {
         "sha256": "43b656bc2d4ce867141abb828c9481f080a38585b99bcfa07e54732a4976a601"
       },
@@ -845,6 +1051,8 @@
     },
     {
       "path": "mods/HYZEN-leaky-1.21-3.4.jar",
+      "original_name": "leaky-1.21-3.4.jar",
+      "originalName": "leaky-1.21-3.4.jar",
       "hashes": {
         "sha256": "a139f49435c7f57a76b47fa6c5138200186f9b96fe3a0ed4be75be0bf0065334"
       },
@@ -853,6 +1061,8 @@
     },
     {
       "path": "mods/HYZEN-limitedchunks-1.21-4.1.jar",
+      "original_name": "limitedchunks-1.21-4.1.jar",
+      "originalName": "limitedchunks-1.21-4.1.jar",
       "hashes": {
         "sha256": "a87536775ca7cc35a4ff717539b48e4a13182879c18d5d0394f5e9d8929be2ad"
       },
@@ -861,6 +1071,8 @@
     },
     {
       "path": "mods/HYZEN-lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "original_name": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "originalName": "lithium-neoforge-0.15.4+mc1.21.1.jar",
       "hashes": {
         "sha256": "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
       },
@@ -869,6 +1081,8 @@
     },
     {
       "path": "mods/HYZEN-loadingbackgrounds-2.0.0-neoforge-1.20.2_to_1.21.1.jar",
+      "original_name": "loadingbackgrounds-2.0.0-neoforge-1.20.2_to_1.21.1.jar",
+      "originalName": "loadingbackgrounds-2.0.0-neoforge-1.20.2_to_1.21.1.jar",
       "hashes": {
         "sha256": "b6a8294942e841c3844254fa4eb1dbb88d1ffe2674aa1829e3f9eccf36a775ba"
       },
@@ -877,6 +1091,8 @@
     },
     {
       "path": "mods/HYZEN-LocatorBar-neoforge-1.2.2+1.21.1.jar",
+      "original_name": "LocatorBar-neoforge-1.2.2+1.21.1.jar",
+      "originalName": "LocatorBar-neoforge-1.2.2+1.21.1.jar",
       "hashes": {
         "sha256": "1beb157efdb32e2e19eabb31bd93ffe87002f13b2904f621a898c6af33e524b6"
       },
@@ -885,6 +1101,8 @@
     },
     {
       "path": "mods/HYZEN-lootr-neoforge-1.21.1-1.11.38.125.jar",
+      "original_name": "lootr-neoforge-1.21.1-1.11.38.125.jar",
+      "originalName": "lootr-neoforge-1.21.1-1.11.38.125.jar",
       "hashes": {
         "sha256": "091878598fa5cb51cd304bf9324afe46420d328b6f77a9ba38acc15e26945e9e"
       },
@@ -893,6 +1111,8 @@
     },
     {
       "path": "mods/HYZEN-mace3d-neoforge-1.21.X-1.1.0.jar",
+      "original_name": "mace3d-neoforge-1.21.X-1.1.0.jar",
+      "originalName": "mace3d-neoforge-1.21.X-1.1.0.jar",
       "hashes": {
         "sha256": "8da11ab8db1f859b6dd1c0b3a8dd7d42e41b70755bbcc414503bddb4143ef813"
       },
@@ -901,6 +1121,8 @@
     },
     {
       "path": "mods/HYZEN-malisisdoorsreborn-neoforge-1.21.1-1.0.13.jar",
+      "original_name": "malisisdoorsreborn-neoforge-1.21.1-1.0.13.jar",
+      "originalName": "malisisdoorsreborn-neoforge-1.21.1-1.0.13.jar",
       "hashes": {
         "sha256": "52e10e6fb545377f2248dc25ab8db38a69b63a96c2ec4e6fd0aef01c50a032ae"
       },
@@ -909,6 +1131,8 @@
     },
     {
       "path": "mods/HYZEN-mcef-neoforge-2.1.6-1.21.1.jar",
+      "original_name": "mcef-neoforge-2.1.6-1.21.1.jar",
+      "originalName": "mcef-neoforge-2.1.6-1.21.1.jar",
       "hashes": {
         "sha256": "0c7696216fa5cfee659d687475873c847a9a17cc8ce3a56119a69c946eeb8772"
       },
@@ -917,6 +1141,8 @@
     },
     {
       "path": "mods/HYZEN-mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "original_name": "mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "originalName": "mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
       "hashes": {
         "sha256": "070b817d3282760d9789b22ce13779613c8b558e02012fd5884d343175d88fd9"
       },
@@ -925,6 +1151,8 @@
     },
     {
       "path": "mods/HYZEN-mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "original_name": "mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "originalName": "mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
       "hashes": {
         "sha256": "819fda8059b210e9de8b9275c8b8e0d931054af5a5ad47771c72d9fd4ab85e88"
       },
@@ -933,6 +1161,8 @@
     },
     {
       "path": "mods/HYZEN-mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "original_name": "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "originalName": "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
       "hashes": {
         "sha256": "8970c40ec622edd34c9b055226b403af08ab441c77303a6dc625ae18005f8184"
       },
@@ -941,6 +1171,8 @@
     },
     {
       "path": "mods/HYZEN-mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "original_name": "mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "originalName": "mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
       "hashes": {
         "sha256": "25c79def993a24b05b0f8494ee9417717d469bc000d5ed7c219b47dcc3b3e9c8"
       },
@@ -949,6 +1181,8 @@
     },
     {
       "path": "mods/HYZEN-Mekanism-1.21.1-10.7.19.85.jar",
+      "original_name": "Mekanism-1.21.1-10.7.19.85.jar",
+      "originalName": "Mekanism-1.21.1-10.7.19.85.jar",
       "hashes": {
         "sha256": "004dbc9f3106f4d192aeaa1ee1190dd16ec9ca8059ed3d093b80034f4c574f43"
       },
@@ -957,6 +1191,8 @@
     },
     {
       "path": "mods/HYZEN-MekanismGenerators-1.21.1-10.7.19.85.jar",
+      "original_name": "MekanismGenerators-1.21.1-10.7.19.85.jar",
+      "originalName": "MekanismGenerators-1.21.1-10.7.19.85.jar",
       "hashes": {
         "sha256": "0e5783b111e756f27b48c62b2f0e02fff750c77f7985ff809bfadc5f444ba4ac"
       },
@@ -965,6 +1201,8 @@
     },
     {
       "path": "mods/HYZEN-MekanismTools-1.21.1-10.7.19.85.jar",
+      "original_name": "MekanismTools-1.21.1-10.7.19.85.jar",
+      "originalName": "MekanismTools-1.21.1-10.7.19.85.jar",
       "hashes": {
         "sha256": "e1dbca7d70df150101da535f6ab4b165a2e402fde830d34df75b58d9aad24dd8"
       },
@@ -973,6 +1211,8 @@
     },
     {
       "path": "mods/HYZEN-melody_neoforge_1.0.10_MC_1.21.jar",
+      "original_name": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "originalName": "melody_neoforge_1.0.10_MC_1.21.jar",
       "hashes": {
         "sha256": "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871"
       },
@@ -981,6 +1221,8 @@
     },
     {
       "path": "mods/HYZEN-modernfix-neoforge-5.27.24+mc1.21.1.jar",
+      "original_name": "modernfix-neoforge-5.27.24+mc1.21.1.jar",
+      "originalName": "modernfix-neoforge-5.27.24+mc1.21.1.jar",
       "hashes": {
         "sha256": "e6e9446890f0feb3aab3f6e73ae18cb17575c370f232179fef7baa30e61538fe"
       },
@@ -989,6 +1231,8 @@
     },
     {
       "path": "mods/HYZEN-monolib-neoforge-1.21.1-4.1.0.jar",
+      "original_name": "monolib-neoforge-1.21.1-4.1.0.jar",
+      "originalName": "monolib-neoforge-1.21.1-4.1.0.jar",
       "hashes": {
         "sha256": "f1f0c6de3415d94286905efcd84911602a105f5f57e7662513f7187e25d9e5fd"
       },
@@ -997,6 +1241,8 @@
     },
     {
       "path": "mods/HYZEN-moonlight-1.21.1-3.6.4-neoforge.jar",
+      "original_name": "moonlight-1.21.1-3.6.4-neoforge.jar",
+      "originalName": "moonlight-1.21.1-3.6.4-neoforge.jar",
       "hashes": {
         "sha256": "0d14c4a6494875dd99de52ac630bd78cd72a561dfa73ac58456baf3705ce1a56"
       },
@@ -1005,6 +1251,8 @@
     },
     {
       "path": "mods/HYZEN-MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "original_name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "originalName": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
       "hashes": {
         "sha256": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
       },
@@ -1013,6 +1261,8 @@
     },
     {
       "path": "mods/HYZEN-neo_startinv-1.0.0-1.21.jar",
+      "original_name": "neo_startinv-1.0.0-1.21.jar",
+      "originalName": "neo_startinv-1.0.0-1.21.jar",
       "hashes": {
         "sha256": "ff35eff1f878222a9d2d768ecd68a46a031416d9619f6fbad8d5fc33f0ecea62"
       },
@@ -1021,6 +1271,8 @@
     },
     {
       "path": "mods/HYZEN-netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "original_name": "netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "originalName": "netherportalfix-neoforge-1.21.1-21.1.1.jar",
       "hashes": {
         "sha256": "c1077de0c7f1ff5289d1852e0674d9c477247d4318c9809b21c60e56a31ae31a"
       },
@@ -1029,6 +1281,8 @@
     },
     {
       "path": "mods/HYZEN-NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+      "original_name": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+      "originalName": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
       "hashes": {
         "sha256": "866ac9a47afcd829bdb03890b5d8f80bb4c6f47332c64717b6e909bee51337b6"
       },
@@ -1037,6 +1291,8 @@
     },
     {
       "path": "mods/HYZEN-NoChatRestrictions-NeoForge-MC1.21.11-v1.0.2.jar",
+      "original_name": "NoChatRestrictions-NeoForge-MC1.21.11-v1.0.2.jar",
+      "originalName": "NoChatRestrictions-NeoForge-MC1.21.11-v1.0.2.jar",
       "hashes": {
         "sha256": "8ee4f4d5d32864b2430efefd944b2621d26c30144bdcd2b126e22834b315b1fb"
       },
@@ -1045,6 +1301,8 @@
     },
     {
       "path": "mods/HYZEN-nomobfarm-neoforge-1.6.7.jar",
+      "original_name": "nomobfarm-neoforge-1.6.7.jar",
+      "originalName": "nomobfarm-neoforge-1.6.7.jar",
       "hashes": {
         "sha256": "ab356f54f2290043c954a5deb0e350e3d9efa0100bd5b9c53ce9fe7bcfd7cbd5"
       },
@@ -1053,6 +1311,8 @@
     },
     {
       "path": "mods/HYZEN-notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
+      "original_name": "notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
+      "originalName": "notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
       "hashes": {
         "sha256": "a8705202193813de291195ad6bbd03101c4ddc1ab2878aadb018ab92f903999f"
       },
@@ -1061,6 +1321,8 @@
     },
     {
       "path": "mods/HYZEN-ntgl-1.21.1-3.1.7.jar",
+      "original_name": "ntgl-1.21.1-3.1.7.jar",
+      "originalName": "ntgl-1.21.1-3.1.7.jar",
       "hashes": {
         "sha256": "ed0853c72fb45d9f24054f79be6a06d37b77d001f551a514908d9706bfa6a3c5"
       },
@@ -1069,6 +1331,8 @@
     },
     {
       "path": "mods/HYZEN-Paxi-1.21.1-NeoForge-5.1.3.jar",
+      "original_name": "Paxi-1.21.1-NeoForge-5.1.3.jar",
+      "originalName": "Paxi-1.21.1-NeoForge-5.1.3.jar",
       "hashes": {
         "sha256": "4b60f8eb3b8b8880eff7c3ac825cde84394848eac3915ed61ade607cdd331ce7"
       },
@@ -1077,6 +1341,8 @@
     },
     {
       "path": "mods/HYZEN-personality-1.21.1-5.0.2.jar",
+      "original_name": "personality-1.21.1-5.0.2.jar",
+      "originalName": "personality-1.21.1-5.0.2.jar",
       "hashes": {
         "sha256": "9c0fd81a32f60b8af933816d06f2cf58d53ce6433221b820ab0b90df686df248"
       },
@@ -1085,6 +1351,8 @@
     },
     {
       "path": "mods/HYZEN-Placebo-1.21.1-9.9.2.jar",
+      "original_name": "Placebo-1.21.1-9.9.2.jar",
+      "originalName": "Placebo-1.21.1-9.9.2.jar",
       "hashes": {
         "sha256": "1a844a5b081813b1edb82656329e54d38389ed470f6a6516a5887f5303d7daad"
       },
@@ -1093,6 +1361,8 @@
     },
     {
       "path": "mods/HYZEN-plasmovoice-neoforge-1.21.1-2.1.16.jar",
+      "original_name": "plasmovoice-neoforge-1.21.1-2.1.16.jar",
+      "originalName": "plasmovoice-neoforge-1.21.1-2.1.16.jar",
       "hashes": {
         "sha256": "a40437eb049a719a85e55897ae03ab4b49e3730ee3c29a11c4362daba582603d"
       },
@@ -1101,6 +1371,8 @@
     },
     {
       "path": "mods/HYZEN-player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "original_name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "originalName": "player-animation-lib-forge-2.0.4+1.21.1.jar",
       "hashes": {
         "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
       },
@@ -1109,6 +1381,8 @@
     },
     {
       "path": "mods/HYZEN-polylib-2100.1.0-build.183-neoforge.jar",
+      "original_name": "polylib-2100.1.0-build.183-neoforge.jar",
+      "originalName": "polylib-2100.1.0-build.183-neoforge.jar",
       "hashes": {
         "sha256": "6861974b2300c899627374470b81cf4922378cd042363c383c36d758fb3808cb"
       },
@@ -1117,6 +1391,8 @@
     },
     {
       "path": "mods/HYZEN-polymorph-neoforge-1.2.0+1.21.1.jar",
+      "original_name": "polymorph-neoforge-1.2.0+1.21.1.jar",
+      "originalName": "polymorph-neoforge-1.2.0+1.21.1.jar",
       "hashes": {
         "sha256": "4a09b7a3c8ea4f5b79acadb405a18140fe20d882e6930403c46cc7ad49c5ec06"
       },
@@ -1125,6 +1401,8 @@
     },
     {
       "path": "mods/HYZEN-ragdoll_reactions-1.21.1-0.7.0.jar",
+      "original_name": "ragdoll_reactions-1.21.1-0.7.0.jar",
+      "originalName": "ragdoll_reactions-1.21.1-0.7.0.jar",
       "hashes": {
         "sha256": "d61a118c0b5ad2f3e761af6b3d71726bc2887bb3d0c7c90c2dc604bb4d3792b8"
       },
@@ -1133,6 +1411,8 @@
     },
     {
       "path": "mods/HYZEN-recipeessentials-1.21.1-4.7.jar",
+      "original_name": "recipeessentials-1.21.1-4.7.jar",
+      "originalName": "recipeessentials-1.21.1-4.7.jar",
       "hashes": {
         "sha256": "d2ab36a95424654bede6fd7aedceefd05912fc12f6de3f8bb0db8b8b245b6f85"
       },
@@ -1141,6 +1421,8 @@
     },
     {
       "path": "mods/HYZEN-redirected-neoforge-1.0.0-1.21.1.jar",
+      "original_name": "redirected-neoforge-1.0.0-1.21.1.jar",
+      "originalName": "redirected-neoforge-1.0.0-1.21.1.jar",
       "hashes": {
         "sha256": "bdaf4c3399b7436d3be7d79729d87ed707a964420dc58720e13fb2f4960c8b9e"
       },
@@ -1149,6 +1431,8 @@
     },
     {
       "path": "mods/HYZEN-reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+      "original_name": "reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+      "originalName": "reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
       "hashes": {
         "sha256": "25812f308a87c04686de6ac9f24a8073101f81864f0eb9abf348f95d73a6629e"
       },
@@ -1157,6 +1441,8 @@
     },
     {
       "path": "mods/HYZEN-reliable_recipes-neoforge-1.21.1-3.1.8.jar",
+      "original_name": "reliable_recipes-neoforge-1.21.1-3.1.8.jar",
+      "originalName": "reliable_recipes-neoforge-1.21.1-3.1.8.jar",
       "hashes": {
         "sha256": "942794d210f0c883ee38d46a86dac540649f061a0f166dde3929a3ed97f1cb81"
       },
@@ -1165,6 +1451,8 @@
     },
     {
       "path": "mods/HYZEN-reliable_recount-neoforge-1.21.1-2.0.3.jar",
+      "original_name": "reliable_recount-neoforge-1.21.1-2.0.3.jar",
+      "originalName": "reliable_recount-neoforge-1.21.1-2.0.3.jar",
       "hashes": {
         "sha256": "8ca02175c3e9ff82b9ccd27b84dec42ce26b525617901090bacff6b16ef4f9e3"
       },
@@ -1173,6 +1461,8 @@
     },
     {
       "path": "mods/HYZEN-rhino-2101.2.7-build.85.jar",
+      "original_name": "rhino-2101.2.7-build.85.jar",
+      "originalName": "rhino-2101.2.7-build.85.jar",
       "hashes": {
         "sha256": "95df92ce578b2504cb16d8c9fc285303bf062eb15452246a18e57b7cf091c19a"
       },
@@ -1181,6 +1471,8 @@
     },
     {
       "path": "mods/HYZEN-ricksportalgun-neoforge-1.21.1-1.4.5.jar",
+      "original_name": "ricksportalgun-neoforge-1.21.1-1.4.5.jar",
+      "originalName": "ricksportalgun-neoforge-1.21.1-1.4.5.jar",
       "hashes": {
         "sha256": "a01977b9389ba9db1abe18cf0ebbc4689cdc2270dd56240b4d6f8104d25e18f9"
       },
@@ -1189,6 +1481,8 @@
     },
     {
       "path": "mods/HYZEN-ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+      "original_name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+      "originalName": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
       "hashes": {
         "sha256": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
       },
@@ -1197,6 +1491,8 @@
     },
     {
       "path": "mods/HYZEN-sable-neoforge-1.21.1-2.0.5.jar",
+      "original_name": "sable-neoforge-1.21.1-2.0.5.jar",
+      "originalName": "sable-neoforge-1.21.1-2.0.5.jar",
       "hashes": {
         "sha256": "c8710f85bc780bbf523e6726ceaaf76dd0b8c61479db497b382c6bb34317e7ab"
       },
@@ -1205,6 +1501,8 @@
     },
     {
       "path": "mods/HYZEN-sable_player_ragdoll-1.21.1-0.7.2.jar",
+      "original_name": "sable_player_ragdoll-1.21.1-0.7.2.jar",
+      "originalName": "sable_player_ragdoll-1.21.1-0.7.2.jar",
       "hashes": {
         "sha256": "62e67cb468bdd4d2240e059c24aac19a019ea5373149b788f24f88d22a017013"
       },
@@ -1213,6 +1511,8 @@
     },
     {
       "path": "mods/HYZEN-sable_xaero_bridge-0.1.11.jar",
+      "original_name": "sable_xaero_bridge-0.1.11.jar",
+      "originalName": "sable_xaero_bridge-0.1.11.jar",
       "hashes": {
         "sha256": "6e742003c27d94d49c6326ff2018655ca87585936ee32e9042d0badc1cdc9bf4"
       },
@@ -1221,6 +1521,8 @@
     },
     {
       "path": "mods/HYZEN-sablecleanup-0.3.0.jar",
+      "original_name": "sablecleanup-0.3.0.jar",
+      "originalName": "sablecleanup-0.3.0.jar",
       "hashes": {
         "sha256": "2d8c1a7ccae23a3ed90e2b5743e23f8745bcf7df0fda18c67263b2f3a05e8308"
       },
@@ -1229,6 +1531,8 @@
     },
     {
       "path": "mods/HYZEN-Searchables-neoforge-1.21.1-1.0.2.jar",
+      "original_name": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "originalName": "Searchables-neoforge-1.21.1-1.0.2.jar",
       "hashes": {
         "sha256": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68"
       },
@@ -1237,6 +1541,8 @@
     },
     {
       "path": "mods/HYZEN-servercore-neoforge-1.5.19+1.21.1.jar",
+      "original_name": "servercore-neoforge-1.5.19+1.21.1.jar",
+      "originalName": "servercore-neoforge-1.5.19+1.21.1.jar",
       "hashes": {
         "sha256": "a5706aa0bb3a47c5f1adab44306685736688ec03414f60beb4fcbe05b99f5a82"
       },
@@ -1245,6 +1551,8 @@
     },
     {
       "path": "mods/HYZEN-shrink-2.0.2.53-neoforge.jar",
+      "original_name": "shrink-2.0.2.53-neoforge.jar",
+      "originalName": "shrink-2.0.2.53-neoforge.jar",
       "hashes": {
         "sha256": "39454ce143d94b3f1aaae6aaf1a018eb5122fe6e3db76d0517a0c802980d0da3"
       },
@@ -1253,6 +1561,8 @@
     },
     {
       "path": "mods/HYZEN-smoothchunk-1.21-4.1.jar",
+      "original_name": "smoothchunk-1.21-4.1.jar",
+      "originalName": "smoothchunk-1.21-4.1.jar",
       "hashes": {
         "sha256": "a79f06eaffe7e5b834620da3c2cdad782aeaf4f1f207d03f8b0228a20bab65e3"
       },
@@ -1261,6 +1571,8 @@
     },
     {
       "path": "mods/HYZEN-smoothmovement-1.21.1-2.8.jar",
+      "original_name": "smoothmovement-1.21.1-2.8.jar",
+      "originalName": "smoothmovement-1.21.1-2.8.jar",
       "hashes": {
         "sha256": "fbf1583607c80188205c4e17e5c4f28dab44b8e57c92b71f223e33d4ab5d7522"
       },
@@ -1269,6 +1581,8 @@
     },
     {
       "path": "mods/HYZEN-sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "original_name": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "originalName": "sodium-neoforge-0.8.13+mc1.21.1.jar",
       "hashes": {
         "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d"
       },
@@ -1277,6 +1591,8 @@
     },
     {
       "path": "mods/HYZEN-sophisticatedbackpacks-1.21.1-3.26.3.2158.jar",
+      "original_name": "sophisticatedbackpacks-1.21.1-3.26.3.2158.jar",
+      "originalName": "sophisticatedbackpacks-1.21.1-3.26.3.2158.jar",
       "hashes": {
         "sha256": "8656ae953d67d1d21e42ed3f103d2be07cdf23bab445c8fc3af468cfd8852514"
       },
@@ -1285,6 +1601,8 @@
     },
     {
       "path": "mods/HYZEN-sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
+      "original_name": "sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
+      "originalName": "sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
       "hashes": {
         "sha256": "f396364bfb146d05c1c44d21431f357b68742699cf49e6f8815751db129dc068"
       },
@@ -1293,6 +1611,8 @@
     },
     {
       "path": "mods/HYZEN-sophisticatedcore-1.21.1-1.5.1.2341.jar",
+      "original_name": "sophisticatedcore-1.21.1-1.5.1.2341.jar",
+      "originalName": "sophisticatedcore-1.21.1-1.5.1.2341.jar",
       "hashes": {
         "sha256": "48d9b3703fedb455fc0aef1f57089f90cc0d2a2400979cef3bc37763fa125c41"
       },
@@ -1301,6 +1621,8 @@
     },
     {
       "path": "mods/HYZEN-sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "original_name": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "originalName": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
       "hashes": {
         "sha256": "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
       },
@@ -1309,6 +1631,8 @@
     },
     {
       "path": "mods/HYZEN-spark-1.10.124-neoforge.jar",
+      "original_name": "spark-1.10.124-neoforge.jar",
+      "originalName": "spark-1.10.124-neoforge.jar",
       "hashes": {
         "sha256": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db"
       },
@@ -1317,6 +1641,8 @@
     },
     {
       "path": "mods/HYZEN-structureessentials-1.21.1-5.0.jar",
+      "original_name": "structureessentials-1.21.1-5.0.jar",
+      "originalName": "structureessentials-1.21.1-5.0.jar",
       "hashes": {
         "sha256": "7ecb6c9d04e20a6803ba6e51dd226eaa289ba2c2c095248f3645222a8bfc1c8d"
       },
@@ -1325,6 +1651,8 @@
     },
     {
       "path": "mods/HYZEN-supplementaries-1.21.1-3.9.9-neoforge.jar",
+      "original_name": "supplementaries-1.21.1-3.9.9-neoforge.jar",
+      "originalName": "supplementaries-1.21.1-3.9.9-neoforge.jar",
       "hashes": {
         "sha256": "d6876ad959d0da4bab0ba182839a0af0e38ef3571345e5e7aea0be572f958e05"
       },
@@ -1333,6 +1661,8 @@
     },
     {
       "path": "mods/HYZEN-TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "original_name": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "originalName": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
       "hashes": {
         "sha256": "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
       },
@@ -1341,6 +1671,8 @@
     },
     {
       "path": "mods/HYZEN-time_on_display-merged-1.21-2.0.0.jar",
+      "original_name": "time_on_display-merged-1.21-2.0.0.jar",
+      "originalName": "time_on_display-merged-1.21-2.0.0.jar",
       "hashes": {
         "sha256": "0aaaef68fa4dcbec07d64d6c775c759dfe3bd7bc22b136fd9021b2140ea16b96"
       },
@@ -1349,6 +1681,8 @@
     },
     {
       "path": "mods/HYZEN-tinymobfarm-1.5.2-1.21-neoforge.jar",
+      "original_name": "tinymobfarm-1.5.2-1.21-neoforge.jar",
+      "originalName": "tinymobfarm-1.5.2-1.21-neoforge.jar",
       "hashes": {
         "sha256": "b1d83c25f98d3bc30064e60f8d940de7b930bf6e006cfde7713e895e4f7c1e18"
       },
@@ -1357,6 +1691,8 @@
     },
     {
       "path": "mods/HYZEN-ToastControl-1.21.1-9.0.1.jar",
+      "original_name": "ToastControl-1.21.1-9.0.1.jar",
+      "originalName": "ToastControl-1.21.1-9.0.1.jar",
       "hashes": {
         "sha256": "f80bc1be4375faaac73971e6d51cc1500935f7144fa33108ee4f2fdbd8f70f66"
       },
@@ -1365,6 +1701,8 @@
     },
     {
       "path": "mods/HYZEN-txnilib-neoforge-1.0.24-1.21.1.jar",
+      "original_name": "txnilib-neoforge-1.0.24-1.21.1.jar",
+      "originalName": "txnilib-neoforge-1.0.24-1.21.1.jar",
       "hashes": {
         "sha256": "411e811a6a53a63c2716dbf71cd1167e3a98d000b884458759d6192720be3e18"
       },
@@ -1373,6 +1711,8 @@
     },
     {
       "path": "mods/HYZEN-uilib-9.0.0-neoforge.jar",
+      "original_name": "uilib-9.0.0-neoforge.jar",
+      "originalName": "uilib-9.0.0-neoforge.jar",
       "hashes": {
         "sha256": "c21c19bcb1822ff934c74b86039c3d864c84e7c389dd91ac31aa0171843ad18f"
       },
@@ -1381,6 +1721,8 @@
     },
     {
       "path": "mods/HYZEN-waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
+      "original_name": "waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
+      "originalName": "waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
       "hashes": {
         "sha256": "bd118e6b3a7740dc14b21ddb9ba771acf152b4fd9e098b99aab72185fc3b1108"
       },
@@ -1389,6 +1731,8 @@
     },
     {
       "path": "mods/HYZEN-watermedia-2.1.37.jar",
+      "original_name": "watermedia-2.1.37.jar",
+      "originalName": "watermedia-2.1.37.jar",
       "hashes": {
         "sha256": "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389"
       },
@@ -1397,6 +1741,8 @@
     },
     {
       "path": "mods/HYZEN-waystones-neoforge-1.21.1-21.1.44.jar",
+      "original_name": "waystones-neoforge-1.21.1-21.1.44.jar",
+      "originalName": "waystones-neoforge-1.21.1-21.1.44.jar",
       "hashes": {
         "sha256": "b88ce6a6b6fffd2c72c10ff472e7fed9eaa2fadfe630f63176352fe8c20c8079"
       },
@@ -1405,6 +1751,8 @@
     },
     {
       "path": "mods/HYZEN-WebDisplays-REMASTER-2.1.0.jar",
+      "original_name": "WebDisplays-REMASTER-2.1.0.jar",
+      "originalName": "WebDisplays-REMASTER-2.1.0.jar",
       "hashes": {
         "sha256": "2c61926eb8049a098679c5d3710714d49e831152d8b017b822e99eb00849c85e"
       },
@@ -1413,6 +1761,8 @@
     },
     {
       "path": "mods/HYZEN-xaerominimap-neoforge-1.21.1-26.5.0.jar",
+      "original_name": "xaerominimap-neoforge-1.21.1-26.5.0.jar",
+      "originalName": "xaerominimap-neoforge-1.21.1-26.5.0.jar",
       "hashes": {
         "sha256": "667105d8fdca64b27b29d8e0b88e67e7342038d3fb4edc4129bf452b601c6d20"
       },
@@ -1421,6 +1771,8 @@
     },
     {
       "path": "mods/HYZEN-xaerotrainmap-1.0.0.jar",
+      "original_name": "xaerotrainmap-1.0.0.jar",
+      "originalName": "xaerotrainmap-1.0.0.jar",
       "hashes": {
         "sha256": "a815738ab6533e7b7c56311cca8c64c788ffb81ec853c505ffe22127c29c63ee"
       },
@@ -1429,6 +1781,8 @@
     },
     {
       "path": "mods/HYZEN-xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
+      "original_name": "xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
+      "originalName": "xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
       "hashes": {
         "sha256": "a7f059e4c48211f6d5c962e7640f5179cc1636bccc907ea77ab9e1865635cb24"
       },
@@ -1437,6 +1791,8 @@
     },
     {
       "path": "mods/HYZEN-yamlconfig-9.0.0-neoforge.jar",
+      "original_name": "yamlconfig-9.0.0-neoforge.jar",
+      "originalName": "yamlconfig-9.0.0-neoforge.jar",
       "hashes": {
         "sha256": "752fe7e5e62e4005afbbf00d8bce0df4653637cc07ccee96f5e38fff80aeaf69"
       },
@@ -1445,6 +1801,8 @@
     },
     {
       "path": "mods/HYZEN-yeetusexperimentus-neoforge-87.0.0.jar",
+      "original_name": "yeetusexperimentus-neoforge-87.0.0.jar",
+      "originalName": "yeetusexperimentus-neoforge-87.0.0.jar",
       "hashes": {
         "sha256": "9117db8b5905abf18f64fdf8f8d8ca5a91c23abd0a7fa2c9986c21aa17d74e75"
       },
@@ -1453,6 +1811,8 @@
     },
     {
       "path": "mods/HYZEN-yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "original_name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "originalName": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
       "hashes": {
         "sha256": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
       },
@@ -1461,6 +1821,8 @@
     },
     {
       "path": "mods/HYZEN-YungsApi-1.21.1-NeoForge-5.1.8.jar",
+      "original_name": "YungsApi-1.21.1-NeoForge-5.1.8.jar",
+      "originalName": "YungsApi-1.21.1-NeoForge-5.1.8.jar",
       "hashes": {
         "sha256": "bacd2385965bcfa4adcc0841656110b8e21ee024407a5ee706d30929f7c240cc"
       },
