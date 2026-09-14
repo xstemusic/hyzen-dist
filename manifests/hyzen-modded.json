@@ -11,9 +11,9 @@
   "maxRamMb": 8192,
   "serverAddress": "play.hyzen.top:25565",
   "packDownloadUrl": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/packs/hyzen-modded-pack.zip",
-  "updatedAt": "2026-09-14T07:02:24.900102Z",
-  "totalMods": 182,
-  "totalBytes": 476358798,
+  "updatedAt": "2026-09-14T07:09:25.692449Z",
+  "totalMods": 183,
+  "totalBytes": 476374815,
   "security": {
     "hashAlgorithm": "SHA256",
     "verifiedOrigin": "https://github.com/xstemusic/hyzen-dist"
@@ -98,6 +98,14 @@
       },
       "size": 783793,
       "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/balm-neoforge-1.21.1-21.0.65.jar"
+    },
+    {
+      "path": "mods/be_quiet_negotiator-2.0.0-rc1+1.21.1.jar",
+      "hashes": {
+        "sha256": "0d6db835dfe228330f45542f9ca659c9cc996d78a47621150176709768fc8672"
+      },
+      "size": 16017,
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/be_quiet_negotiator-2.0.0-rc1+1.21.1.jar"
     },
     {
       "path": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
