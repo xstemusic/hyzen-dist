@@ -1,0 +1,15 @@
+["Rick's Portal Gun mod config"]
+	#Maximum distance for randomizer. Default = 10000
+	randomizer_max = 10000
+	#Disable locating players
+	disable_player_locating = false
+	#Disable locating biomes
+	disable_biome_locating = false
+	#Disable locating structures
+	disable_structure_locating = false
+	#List of Dimension IDs the portal gun can't travel to, everything else is allowed
+	#Separate every entry except the last one with commas
+	blacklisted_dimensions = []
+	#List of Entity IDs that cannot travel through portals, everything else is allowed
+	#Separate every entry except the last one with commas
+	blacklisted_entities = ["minecraft:ender_dragon", "minecraft:wither", "minecraft:warden", "ricksportalgun:portal"]

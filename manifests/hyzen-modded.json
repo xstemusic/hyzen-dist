@@ -2,7 +2,7 @@
   "formatVersion": 2,
   "game": "minecraft",
   "versionId": "hyzen-modded",
-  "name": "Hyzen Modded (Industrial & Magic)",
+  "name": "MODDED",
   "mcVersion": "1.21.1",
   "loaderType": "neoforge",
   "loaderVersion": "21.1.249",
@@ -11,7 +11,7 @@
   "maxRamMb": 8192,
   "serverAddress": "play.hyzen.top:25565",
   "packDownloadUrl": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/packs/hyzen-modded-pack.zip",
-  "updatedAt": "2026-09-14T07:09:25.692449Z",
+  "updatedAt": "2026-09-14T08:25:26.731826Z",
   "totalMods": 183,
   "totalBytes": 476374815,
   "security": {

@@ -1,7 +1,7 @@
 [
   {
     "id": "hyzen-modded",
-    "name": "Hyzen Modded (Industrial & Magic)",
+    "name": "MODDED",
     "mc_version": "1.21.1",
     "loader_type": "neoforge",
     "loader_version": "21.1.249",
@@ -22,7 +22,7 @@
   },
   {
     "id": "hyzen-smp",
-    "name": "Hyzen Vanilla SMP (Profile S)",
+    "name": "SMP",
     "mc_version": "26.1.2",
     "loader_type": "fabric",
     "loader_version": "0.19.3",
