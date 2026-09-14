@@ -100,14 +100,6 @@
       "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/balm-neoforge-1.21.1-21.0.65.jar"
     },
     {
-      "path": "mods/be_quiet_negotiator-2.0.0-rc1+1.21.1.jar",
-      "hashes": {
-        "sha256": "0d6db835dfe228330f45542f9ca659c9cc996d78a47621150176709768fc8672"
-      },
-      "size": 16017,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/be_quiet_negotiator-2.0.0-rc1+1.21.1.jar"
-    },
-    {
       "path": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
       "hashes": {
         "sha256": "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26"
@@ -428,14 +420,6 @@
       "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/createcardboardthings-1.21.1-1.0.2.jar"
     },
     {
-      "path": "mods/CreateCyberGoggles-1.21.1-8.2.0-NeoForge.jar",
-      "hashes": {
-        "sha256": "3778155ba479d705bba7faa6958d4e24795e1bb44f8fcc80c435db3398cfb24b"
-      },
-      "size": 612466,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/CreateCyberGoggles-1.21.1-8.2.0-NeoForge.jar"
-    },
-    {
       "path": "mods/CreateFastSchematicCannon-1.4.1-neoforge-1.21.1.jar",
       "hashes": {
         "sha256": "5dbc33a64c01e8fef09585fae9d09c9ae04b800e3c4315ace85901a68eb5fae3"
@@ -594,14 +578,6 @@
       },
       "size": 861829,
       "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar"
-    },
-    {
-      "path": "mods/enhancedai-4.2.3.0.jar",
-      "hashes": {
-        "sha256": "d14da133c9521b468ccc98d73c8cdccb8cd1d4c6da54d0f1e10d889c89aa0848"
-      },
-      "size": 1393412,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/enhancedai-4.2.3.0.jar"
     },
     {
       "path": "mods/entity_model_features-3.3.5-1.21-neoforge.jar",
@@ -812,14 +788,6 @@
       "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/immersive_paintings-neoforge-1.21.1-0.7.8.jar"
     },
     {
-      "path": "mods/implant1.0.0-r82.jar",
-      "hashes": {
-        "sha256": "673c4073d80d554dbcbaa3382f08813868bdef4d61950e7d5599ad9b0fb7fe5d"
-      },
-      "size": 1087725,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/implant1.0.0-r82.jar"
-    },
-    {
       "path": "mods/insanelib-2.4.32.0.jar",
       "hashes": {
         "sha256": "79b48dfbf95072c180da7fcc3dd5565fc7127cdeba0574116da93e28fd343641"
@@ -906,14 +874,6 @@
       },
       "size": 173392,
       "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/loadingbackgrounds-2.0.0-neoforge-1.20.2_to_1.21.1.jar"
-    },
-    {
-      "path": "mods/LocatorBar-neoforge-1.2.2+1.21.1.jar",
-      "hashes": {
-        "sha256": "1beb157efdb32e2e19eabb31bd93ffe87002f13b2904f621a898c6af33e524b6"
-      },
-      "size": 168064,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/LocatorBar-neoforge-1.2.2+1.21.1.jar"
     },
     {
       "path": "mods/lootr-neoforge-1.21.1-1.11.38.125.jar",
@@ -1084,14 +1044,6 @@
       "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/ntgl-1.21.1-3.1.7.jar"
     },
     {
-      "path": "mods/omega device.jar",
-      "hashes": {
-        "sha256": "997e751129de6967725affa7276ec086998098059cd363a16f016b98e2359bdd"
-      },
-      "size": 84741,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/omega device.jar"
-    },
-    {
       "path": "mods/Paxi-1.21.1-NeoForge-5.1.3.jar",
       "hashes": {
         "sha256": "4b60f8eb3b8b8880eff7c3ac825cde84394848eac3915ed61ade607cdd331ce7"
@@ -1146,14 +1098,6 @@
       },
       "size": 172671,
       "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/polymorph-neoforge-1.2.0+1.21.1.jar"
-    },
-    {
-      "path": "mods/portal_gun_mod-1.50.0.jar",
-      "hashes": {
-        "sha256": "9405fcd962b5741cec57760b9f6a5a2b563345bad1658231b87ca3841a1913ae"
-      },
-      "size": 3389682,
-      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/portal_gun_mod-1.50.0.jar"
     },
     {
       "path": "mods/ragdoll_reactions-1.21.1-0.7.0.jar",
