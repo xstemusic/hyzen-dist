@@ -5,6 +5,7 @@ Desktop.ini
 
 # Executables & Native libraries
 *.exe
+!launcher/HyzenLauncher.exe
 *.dll
 *.so
 *.dylib
