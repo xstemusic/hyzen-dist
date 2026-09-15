@@ -11,9 +11,9 @@
   "maxRamMb": 8192,
   "serverAddress": "play.hyzen.top:25565",
   "packDownloadUrl": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/packs/hyzen-modded-pack.zip",
-  "updatedAt": "2026-09-14T19:40:08.148890Z",
-  "totalMods": 181,
-  "totalBytes": 455426684,
+  "updatedAt": "2026-09-15T13:18:10.264602Z",
+  "totalMods": 182,
+  "totalBytes": 456637006,
   "security": {
     "hashAlgorithm": "SHA256",
     "verifiedOrigin": "https://github.com/xstemusic/hyzen-dist"
@@ -988,6 +988,16 @@
       },
       "size": 5500916,
       "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/HYZEN-immersive_paintings-neoforge-1.21.1-0.7.8.jar"
+    },
+    {
+      "path": "mods/HYZEN-insanelib-2.4.32.0.jar",
+      "original_name": "insanelib-2.4.32.0.jar",
+      "originalName": "insanelib-2.4.32.0.jar",
+      "hashes": {
+        "sha256": "79b48dfbf95072c180da7fcc3dd5565fc7127cdeba0574116da93e28fd343641"
+      },
+      "size": 1210322,
+      "download": "https://raw.githubusercontent.com/xstemusic/hyzen-dist/main/client_mods/hyzen-modded/HYZEN-insanelib-2.4.32.0.jar"
     },
     {
       "path": "mods/HYZEN-iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
